@@ -1,0 +1,36 @@
+{
+  "answer": [
+    {
+      "CONTAIN": [
+        "HOLD",
+        "HOUSE",
+        "KEEP",
+        "STORE"
+      ]
+    },
+    {
+      "MOVE IN THE WIND": [
+        "BLOW",
+        "FLAP",
+        "SWAY",
+        "WAVE"
+      ]
+    },
+    {
+      "VEGETABLE UNITS": [
+        "BULB",
+        "EAR",
+        "HEAD",
+        "SPEAR"
+      ]
+    },
+    {
+      "THINGS THAT ARE DIVIDED INTO TWELVE SEGMENTS": [
+        "CLOCK",
+        "FOOT",
+        "YEAR",
+        "ZODIAC"
+      ]
+    }
+  ]
+}

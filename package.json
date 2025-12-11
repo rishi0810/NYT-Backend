@@ -5,6 +5,9 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "generate": "node generate-puzzles.js",
+    "start": "node index.js",
+    "dev": "node index.js",
     "test": "node index.js"
   },
   "keywords": [],

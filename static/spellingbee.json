@@ -1,0 +1,72 @@
+{
+  "answer": {
+    "displayWeekday": "Thursday",
+    "displayDate": "December 11, 2025",
+    "printDate": "2025-12-11",
+    "centerLetter": "y",
+    "outerLetters": [
+      "a",
+      "e",
+      "l",
+      "m",
+      "o",
+      "p"
+    ],
+    "validLetters": [
+      "y",
+      "a",
+      "e",
+      "l",
+      "m",
+      "o",
+      "p"
+    ],
+    "pangrams": [
+      "maypole"
+    ],
+    "answers": [
+      "maypole",
+      "allay",
+      "alley",
+      "alloy",
+      "ally",
+      "amply",
+      "amyl",
+      "apply",
+      "eely",
+      "employ",
+      "employee",
+      "lamely",
+      "laypeople",
+      "loamy",
+      "loopy",
+      "loyal",
+      "loyally",
+      "mayo",
+      "mealy",
+      "molly",
+      "mommy",
+      "mopey",
+      "myeloma",
+      "myope",
+      "palely",
+      "palmy",
+      "papally",
+      "papaya",
+      "pappy",
+      "payee",
+      "payola",
+      "peppy",
+      "play",
+      "ploy",
+      "polyp",
+      "poppy",
+      "yappy",
+      "yell",
+      "yelp"
+    ],
+    "id": 19511,
+    "freeExpiration": 0,
+    "editor": "Sam Ezersky"
+  }
+}
