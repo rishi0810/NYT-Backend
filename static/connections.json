@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "CONTAIN": [
-        "HOLD",
-        "HOUSE",
-        "KEEP",
-        "STORE"
+      "THINGS SEEN IN A YARD": [
+        "GNOME",
+        "GRILL",
+        "SHED",
+        "SPRINKLER"
       ]
     },
     {
-      "MOVE IN THE WIND": [
-        "BLOW",
-        "FLAP",
-        "SWAY",
-        "WAVE"
+      "ANAGRAMS": [
+        "ARES",
+        "EARS",
+        "SEAR",
+        "SERA"
       ]
     },
     {
-      "VEGETABLE UNITS": [
-        "BULB",
-        "EAR",
-        "HEAD",
-        "SPEAR"
+      "LETTER HOMOPHONES": [
+        "ARE",
+        "ELLE",
+        "QUE",
+        "QUEUE"
       ]
     },
     {
-      "THINGS THAT ARE DIVIDED INTO TWELVE SEGMENTS": [
-        "CLOCK",
-        "FOOT",
-        "YEAR",
-        "ZODIAC"
+      "DUST ___": [
+        "BOWL",
+        "BUNNY",
+        "DEVIL",
+        "JACKET"
       ]
     }
   ]
