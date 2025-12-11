@@ -2,8 +2,8 @@ name: Daily Puzzle Gen
 
 on:
   schedule:
-    # Runs at 00:00 UTC (12:00 AM Midnight) every day
-    - cron: '0 0 * * *'
+    # Runs at minute 0 past hour 0, 8, and 16 (Every 8 hours)
+    - cron: '0 */8 * * *'
   # Allows manual triggering
   workflow_dispatch:
 
