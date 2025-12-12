@@ -66,4 +66,9 @@ jobs:
         uses: gacts/purge-jsdelivr-cache@v1
         with:
           url: |
-            https://cdn.jsdelivr.net/gh/rishi0810/NYT-Backend@main/
+            https://cdn.jsdelivr.net/gh/rishi0810/NYT-Backend@main/static/connections.json
+            https://cdn.jsdelivr.net/gh/rishi0810/NYT-Backend@main/static/letterboxd.json
+            https://cdn.jsdelivr.net/gh/rishi0810/NYT-Backend@main/static/spellingbee.json
+            https://cdn.jsdelivr.net/gh/rishi0810/NYT-Backend@main/static/strands.json
+            https://cdn.jsdelivr.net/gh/rishi0810/NYT-Backend@main/static/sudoku.json
+            https://cdn.jsdelivr.net/gh/rishi0810/NYT-Backend@main/static/wordle.json
