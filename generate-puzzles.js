@@ -184,7 +184,7 @@ async function generateSudoku() {
 async function saveToStatic(filename, data) {
   const filepath = path.join(STATIC_DIR, filename);
   await fs.writeFile(filepath, JSON.stringify(data, null, 2), "utf8");
-  console.log(`✅ Generated: ${filename}`);
+  console.log(`Generated: ${filename}`);
 }
 
 /**
@@ -202,7 +202,7 @@ function getTodayDate() {
  * Purge CDN cache for all puzzle JSON files
  */
 async function purgeCDNCache() {
-  console.log("\n🔄 Starting CDN cache purge...\n");
+  console.log("\nStarting CDN cache purge...\n");
 
   const puzzleFiles = [
     "sudoku.json",
@@ -213,41 +213,68 @@ async function purgeCDNCache() {
     "strands.json",
   ];
 
-  const baseUrl = "https://purge.jsdelivr.net/gh/rishi0810/NYT-Backend@main/static";
+  const purgeBaseUrl = "https://purge.jsdelivr.net/gh/rishi0810/NYT-Backend@main/static";
+  const cdnBaseUrl = "https://cdn.jsdelivr.net/gh/rishi0810/NYT-Backend@main/static";
 
+  // Step 1: Purge cache for all files
   for (let i = 0; i < puzzleFiles.length; i++) {
     const file = puzzleFiles[i];
-    const purgeUrl = `${baseUrl}/${file}`;
+    const purgeUrl = `${purgeBaseUrl}/${file}`;
 
     try {
       const response = await axios.get(purgeUrl);
-      console.log(`✅ Cache purged for ${file} - Status: ${response.status}`);
+      console.log(`Cache purged for ${file} - Status: ${response.status}`);
     } catch (error) {
       const status = error.response ? error.response.status : "Unknown";
-      console.error(`❌ Failed to purge cache for ${file} - Status: ${status}`);
+      console.error(`Failed to purge cache for ${file} - Status: ${status}`);
     }
 
-    // Wait 5 seconds before the next purge (except for the last one)
+    // Wait 8 seconds before the next purge (except for the last one)
     if (i < puzzleFiles.length - 1) {
-      console.log(`⏳ Waiting 5 seconds before next purge...\n`);
+      console.log(`Waiting 8 seconds before next purge...\n`);
+      await new Promise((resolve) => setTimeout(resolve, 8000));
+    }
+  }
+
+  console.log("\nCDN cache purge complete!");
+  console.log("Waiting 15 seconds for CDN purge to propagate globally...\n");
+  await new Promise((resolve) => setTimeout(resolve, 15000));
+
+  // Step 2: Activate new cache by calling each CDN URL
+  console.log("\nActivating new CDN cache...\n");
+
+  for (let i = 0; i < puzzleFiles.length; i++) {
+    const file = puzzleFiles[i];
+    const cdnUrl = `${cdnBaseUrl}/${file}`;
+
+    try {
+      const response = await axios.get(cdnUrl);
+      console.log(`Cache activated for ${file} - Status: ${response.status}`);
+    } catch (error) {
+      const status = error.response ? error.response.status : "Unknown";
+      console.error(`Failed to activate cache for ${file} - Status: ${status}`);
+    }
+
+    // Wait 5 seconds before the next activation (except for the last one)
+    if (i < puzzleFiles.length - 1) {
+      console.log(`Waiting 5 seconds before next activation...\n`);
       await new Promise((resolve) => setTimeout(resolve, 5000));
     }
   }
 
-  console.log("\n🔄 CDN cache purge complete!");
+  console.log("\nCDN cache activation complete!");
 }
-
 /**
  * Main function to generate all puzzle data
  */
 async function generateAllPuzzles() {
-  console.log("🎮 Starting puzzle data generation...\n");
+  console.log("Starting puzzle data generation...\n");
 
   // Ensure static directory exists
   await fs.mkdir(STATIC_DIR, { recursive: true });
 
   const today = getTodayDate();
-  console.log(`📅 Generating puzzles for date: ${today}\n`);
+  console.log(`Generating puzzles for date: ${today}\n`);
 
   const results = {
     success: [],
@@ -275,21 +302,21 @@ async function generateAllPuzzles() {
       await saveToStatic(`${puzzle.name}.json`, data);
       results.success.push(puzzle.name);
     } catch (error) {
-      console.error(`❌ Failed to generate ${puzzle.name}:`, error.message);
+      console.error(`Failed to generate ${puzzle.name}:`, error.message);
       results.failed.push({ name: puzzle.name, error: error.message });
     }
   }
 
-  console.log("\n📊 Generation Summary:");
-  console.log(`   ✅ Success: ${results.success.length}`);
-  console.log(`   ❌ Failed: ${results.failed.length}`);
+  console.log("\nGeneration Summary:");
+  console.log(`Success: ${results.success.length}`);
+  console.log(`Failed: ${results.failed.length}`);
 
   if (results.failed.length > 0) {
-    console.log("\n⚠️  Failed puzzles:");
+    console.log("\nFailed puzzles:");
     results.failed.forEach((f) => console.log(`   - ${f.name}: ${f.error}`));
   }
 
-  console.log("\n🎮 Puzzle data generation complete!");
+  console.log("\nPuzzle data generation complete!");
 
   // Purge CDN cache after successful generation
   await purgeCDNCache();
