@@ -53,24 +53,3 @@ jobs:
           else
             echo "⚠️ No changes detected in puzzles."
           fi
-
-      # 6. Purge jsDelivr Cache
-      - name: Purge jsDelivr Cache
-        run: |
-          files=(
-            "wordle.json"
-            "strands.json"
-            "connections.json"
-            "spellingbee.json"
-            "letterboxd.json"
-            "sudoku.json"
-          )
-          
-          # Explicitly using the repo and branch provided
-          repo="rishi0810/NYT-Backend"
-          branch="main"
-          
-          for file in "${files[@]}"; do
-            echo "Purging $file..."
-            curl -I "https://purge.jsdelivr.net/gh/$repo@$branch/static/$file"
-          done

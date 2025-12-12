@@ -199,6 +199,45 @@ function getTodayDate() {
 }
 
 /**
+ * Purge CDN cache for all puzzle JSON files
+ */
+async function purgeCDNCache() {
+  console.log("\n🔄 Starting CDN cache purge...\n");
+
+  const puzzleFiles = [
+    "sudoku.json",
+    "wordle.json",
+    "connections.json",
+    "letterboxd.json",
+    "spellingbee.json",
+    "strands.json",
+  ];
+
+  const baseUrl = "https://purge.jsdelivr.net/gh/rishi0810/NYT-Backend@main/static";
+
+  for (let i = 0; i < puzzleFiles.length; i++) {
+    const file = puzzleFiles[i];
+    const purgeUrl = `${baseUrl}/${file}`;
+
+    try {
+      const response = await axios.get(purgeUrl);
+      console.log(`✅ Cache purged for ${file} - Status: ${response.status}`);
+    } catch (error) {
+      const status = error.response ? error.response.status : "Unknown";
+      console.error(`❌ Failed to purge cache for ${file} - Status: ${status}`);
+    }
+
+    // Wait 5 seconds before the next purge (except for the last one)
+    if (i < puzzleFiles.length - 1) {
+      console.log(`⏳ Waiting 5 seconds before next purge...\n`);
+      await new Promise((resolve) => setTimeout(resolve, 5000));
+    }
+  }
+
+  console.log("\n🔄 CDN cache purge complete!");
+}
+
+/**
  * Main function to generate all puzzle data
  */
 async function generateAllPuzzles() {
@@ -251,6 +290,9 @@ async function generateAllPuzzles() {
   }
 
   console.log("\n🎮 Puzzle data generation complete!");
+
+  // Purge CDN cache after successful generation
+  await purgeCDNCache();
 }
 
 // Export functions for potential external use
