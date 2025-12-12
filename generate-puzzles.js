@@ -199,72 +199,6 @@ function getTodayDate() {
 }
 
 /**
- * Purge CDN cache for all puzzle JSON files
- */
-async function purgeCDNCache() {
-  console.log("\nStarting CDN cache purge...\n");
-
-  const puzzleFiles = [
-    "sudoku.json",
-    "wordle.json",
-    "connections.json",
-    "letterboxd.json",
-    "spellingbee.json",
-    "strands.json",
-  ];
-
-  const purgeBaseUrl = "https://purge.jsdelivr.net/gh/rishi0810/NYT-Backend@main/static";
-  const cdnBaseUrl = "https://cdn.jsdelivr.net/gh/rishi0810/NYT-Backend@main/static";
-
-  // Step 1: Purge cache for all files
-  for (let i = 0; i < puzzleFiles.length; i++) {
-    const file = puzzleFiles[i];
-    const purgeUrl = `${purgeBaseUrl}/${file}`;
-
-    try {
-      const response = await axios.get(purgeUrl);
-      console.log(`Cache purged for ${file} - Status: ${response.status}`);
-    } catch (error) {
-      const status = error.response ? error.response.status : "Unknown";
-      console.error(`Failed to purge cache for ${file} - Status: ${status}`);
-    }
-
-    // Wait 8 seconds before the next purge (except for the last one)
-    if (i < puzzleFiles.length - 1) {
-      console.log(`Waiting 8 seconds before next purge...\n`);
-      await new Promise((resolve) => setTimeout(resolve, 8000));
-    }
-  }
-
-  console.log("\nCDN cache purge complete!");
-  console.log("Waiting 15 seconds for CDN purge to propagate globally...\n");
-  await new Promise((resolve) => setTimeout(resolve, 15000));
-
-  // Step 2: Activate new cache by calling each CDN URL
-  console.log("\nActivating new CDN cache...\n");
-
-  for (let i = 0; i < puzzleFiles.length; i++) {
-    const file = puzzleFiles[i];
-    const cdnUrl = `${cdnBaseUrl}/${file}`;
-
-    try {
-      const response = await axios.get(cdnUrl);
-      console.log(`Cache activated for ${file} - Status: ${response.status}`);
-    } catch (error) {
-      const status = error.response ? error.response.status : "Unknown";
-      console.error(`Failed to activate cache for ${file} - Status: ${status}`);
-    }
-
-    // Wait 5 seconds before the next activation (except for the last one)
-    if (i < puzzleFiles.length - 1) {
-      console.log(`Waiting 5 seconds before next activation...\n`);
-      await new Promise((resolve) => setTimeout(resolve, 5000));
-    }
-  }
-
-  console.log("\nCDN cache activation complete!");
-}
-/**
  * Main function to generate all puzzle data
  */
 async function generateAllPuzzles() {
@@ -317,9 +251,6 @@ async function generateAllPuzzles() {
   }
 
   console.log("\nPuzzle data generation complete!");
-
-  // Purge CDN cache after successful generation
-  await purgeCDNCache();
 }
 
 // Export functions for potential external use
