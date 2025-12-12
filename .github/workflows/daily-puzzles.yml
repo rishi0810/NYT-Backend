@@ -53,3 +53,17 @@ jobs:
           else
             echo "⚠️ No changes detected in puzzles."
           fi
+
+      # 6. Wait for GitHub to reflect changes
+      - name: Wait for changes to propagate
+        run: |
+          echo "Waiting 100 seconds for changes to propagate on GitHub..."
+          sleep 100
+          echo "Done waiting, proceeding to purge CDN cache"
+
+      # 7. Purge jsDelivr CDN Cache
+      - name: Purge jsDelivr Cache
+        uses: gacts/purge-jsdelivr-cache@v1
+        with:
+          url: |
+            https://cdn.jsdelivr.net/gh/rishi0810/NYT-Backend@main/
