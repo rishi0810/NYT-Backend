@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "TOURNAMENT ROUNDS": [
-        "FINAL",
-        "QUALIFIER",
-        "QUARTER",
-        "SEMI"
+      "DANCES": [
+        "BOLERO",
+        "FOXTROT",
+        "MAMBO",
+        "QUICKSTEP"
       ]
     },
     {
-      "ENORMOUS": [
-        "BUMPER",
-        "GIANT",
-        "MONSTER",
-        "TITANIC"
+      "DESCENDANTS": [
+        "BROOD",
+        "FAMILY",
+        "OFFSPRING",
+        "POSTERITY"
       ]
     },
     {
-      "DISREPUTABLE ESTABLISHMENT": [
-        "DIVE",
-        "DUMP",
-        "HOLE",
-        "JOINT"
+      "HITCHCOCK MOVIES": [
+        "LIFEBOAT",
+        "ROPE",
+        "SPELLBOUND",
+        "SUSPICION"
       ]
     },
     {
-      "WHAT \"C\" MIGHT MEAN": [
-        "CELSIUS",
-        "COLD",
-        "ONE HUNDRED",
-        "SEE"
+      "STARTING WITH PERCUSSION INSTRUMENTS": [
+        "BELLHOP",
+        "CHIMERA",
+        "DRUMROLL",
+        "RATTLESNAKE"
       ]
     }
   ]
