@@ -15,59 +15,51 @@ const port = process.env.PORT || 8080;
 app.use(cors());
 app.use(express.json());
 
-// Serve static JSON files from the /static directory
-app.use("/static", express.static(path.join(__dirname, "static")));
+const cacheOptions = {
+  headers: {
+    "Cache-Control": "no-cache", 
+  }
+};
+
+app.use("/static", express.static(path.join(__dirname, "static"), {
+  setHeaders: (res, path) => {
+    res.setHeader("Cache-Control", "no-cache");
+  }
+}));
 
 // Health check endpoint
 app.get("/health", (req, res) => {
   res.json({ status: "ok" });
 });
 
-// Wordle - serves pre-generated static JSON
+// Wordle
 app.get("/wordle", (req, res) => {
-  res.sendFile(path.join(__dirname, "static", "wordle.json"));
+  res.sendFile(path.join(__dirname, "static", "wordle.json"), cacheOptions);
 });
 
-// Also support POST for backwards compatibility
-app.post("/wordle", (req, res) => {
-  res.sendFile(path.join(__dirname, "static", "wordle.json"));
-});
-
-// Strands - serves pre-generated static JSON
+// Strands
 app.get("/strands", (req, res) => {
-  res.sendFile(path.join(__dirname, "static", "strands.json"));
+  res.sendFile(path.join(__dirname, "static", "strands.json"), cacheOptions);
 });
 
-app.post("/strands", (req, res) => {
-  res.sendFile(path.join(__dirname, "static", "strands.json"));
-});
-
-// Connections - serves pre-generated static JSON
+// Connections
 app.get("/connections", (req, res) => {
-  res.sendFile(path.join(__dirname, "static", "connections.json"));
+  res.sendFile(path.join(__dirname, "static", "connections.json"), cacheOptions);
 });
 
-app.post("/connections", (req, res) => {
-  res.sendFile(path.join(__dirname, "static", "connections.json"));
-});
-
-// Spelling Bee - serves pre-generated static JSON
+// Spelling Bee
 app.get("/spellingbee", (req, res) => {
-  res.sendFile(path.join(__dirname, "static", "spellingbee.json"));
+  res.sendFile(path.join(__dirname, "static", "spellingbee.json"), cacheOptions);
 });
 
-app.post("/spellingbee", (req, res) => {
-  res.sendFile(path.join(__dirname, "static", "spellingbee.json"));
-});
-
-// Letter Boxed - serves pre-generated static JSON
+// Letter Boxed
 app.get("/letterboxd", (req, res) => {
-  res.sendFile(path.join(__dirname, "static", "letterboxd.json"));
+  res.sendFile(path.join(__dirname, "static", "letterboxd.json"), cacheOptions);
 });
 
-// Sudoku - serves pre-generated static JSON
+// Sudoku
 app.get("/sudoku", (req, res) => {
-  res.sendFile(path.join(__dirname, "static", "sudoku.json"));
+  res.sendFile(path.join(__dirname, "static", "sudoku.json"), cacheOptions);
 });
 
 app.listen(port, () => {
