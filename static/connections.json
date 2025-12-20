@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "FINDINGS": [
-        "DATA",
-        "DETAILS",
-        "INFORMATION",
-        "INTELLIGENCE"
+      "CONTAINERS": [
+        "BUCKET",
+        "CAN",
+        "DRUM",
+        "TIN"
       ]
     },
     {
-      "DINNER OPTIONS": [
-        "COOK",
-        "DELIVERY",
-        "GO OUT",
-        "LEFTOVERS"
+      "LAUNDRY SERVICES": [
+        "DRY",
+        "FOLD",
+        "PRESS",
+        "WASH"
       ]
     },
     {
-      "U.S. CABINET DEPARTMENTS": [
-        "COMMERCE",
-        "EDUCATION",
-        "ENERGY",
-        "LABOR"
+      "BRITISH BANDS FORMED IN THE 1970S, WITH \"THE\"": [
+        "CLASH",
+        "CURE",
+        "DAMNED",
+        "FALL"
       ]
     },
     {
-      "HOMOPHONES OF PLACES TO PARK A SHIP": [
-        "BIRTH",
-        "DOC",
-        "PEER",
-        "WORF"
+      "ROCK ___": [
+        "BOTTOM",
+        "LOBSTER",
+        "MUSIC",
+        "SALT"
       ]
     }
   ]
