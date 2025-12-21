@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "CONTAINERS": [
-        "BUCKET",
-        "CAN",
-        "DRUM",
-        "TIN"
+      "FEATURES OF A TEAPOT": [
+        "HANDLE",
+        "LID",
+        "SPOUT",
+        "STRAINER"
       ]
     },
     {
-      "LAUNDRY SERVICES": [
-        "DRY",
-        "FOLD",
-        "PRESS",
-        "WASH"
+      "LIBRARY SECTIONS": [
+        "CIRCULATION",
+        "PERIODICALS",
+        "REFERENCE",
+        "STACKS"
       ]
     },
     {
-      "BRITISH BANDS FORMED IN THE 1970S, WITH \"THE\"": [
-        "CLASH",
-        "CURE",
-        "DAMNED",
-        "FALL"
+      "ARISE": [
+        "EMERGE",
+        "FLOW",
+        "ISSUE",
+        "RESULT"
       ]
     },
     {
-      "ROCK ___": [
-        "BOTTOM",
-        "LOBSTER",
-        "MUSIC",
-        "SALT"
+      "___DROP": [
+        "AIR",
+        "EAVES",
+        "GUM",
+        "RAIN"
       ]
     }
   ]
