@@ -1,13 +1,10 @@
 {
   "answer": [
-    "BALLOT",
-    "GIFT",
-    "LUNCH",
-    "MATCH",
-    "PIZZA",
-    "SHOE",
-    "TACKLE",
-    "TOOL"
+    "OPINION",
+    "OUTLOOK",
+    "PERSPECTIVE",
+    "TAKE",
+    "VIEWPOINT"
   ],
-  "spangram": "BOXINGDAY"
+  "spangram": "MYTWOCENTS"
 }

@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "CALIFORNIA-BASED CHARACTER TROPES": [
-        "MOVIE EXEC",
-        "SURFER",
-        "TECH BRO",
-        "VALLEY GIRL"
+      "AIRLINE CLASSES": [
+        "BUSINESS",
+        "ECONOMY",
+        "FIRST",
+        "PREMIUM"
       ]
     },
     {
-      "COMEDY SUBGENRES": [
-        "BUDDY",
-        "CRINGE",
-        "SCREWBALL",
-        "STONER"
+      "ATTRIBUTE": [
+        "CITE",
+        "CREDIT",
+        "NAME",
+        "REFERENCE"
       ]
     },
     {
-      "'70S ROCK BANDS": [
-        "AMERICA",
-        "CHICAGO",
-        "FOREIGNER",
-        "JOURNEY"
+      "VOCATION": [
+        "CALLING",
+        "CRAFT",
+        "LINE",
+        "TRADE"
       ]
     },
     {
-      "BLACK ___": [
-        "FOREST",
-        "FRIDAY",
-        "PANTHER",
-        "WIDOW"
+      "ENDING WITH ALCOHOLIC BEVERAGES": [
+        "DECIDER",
+        "NAMESAKE",
+        "REPORT",
+        "VILLAGER"
       ]
     }
   ]
