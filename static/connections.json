@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "AIRLINE CLASSES": [
-        "BUSINESS",
-        "ECONOMY",
-        "FIRST",
-        "PREMIUM"
+      "CONTAINERS FOR SHIPPING": [
+        "BOX",
+        "ENVELOPE",
+        "MAILER",
+        "TUBE"
       ]
     },
     {
-      "ATTRIBUTE": [
-        "CITE",
-        "CREDIT",
-        "NAME",
-        "REFERENCE"
+      "UNMOVING": [
+        "CONSTANT",
+        "STATIC",
+        "STATIONARY",
+        "STILL"
       ]
     },
     {
-      "VOCATION": [
-        "CALLING",
-        "CRAFT",
-        "LINE",
-        "TRADE"
+      "MECHANICAL WATCH PARTS": [
+        "GEAR",
+        "PAWL",
+        "RATCHET",
+        "SPRING"
       ]
     },
     {
-      "ENDING WITH ALCOHOLIC BEVERAGES": [
-        "DECIDER",
-        "NAMESAKE",
-        "REPORT",
-        "VILLAGER"
+      "DOGS WITH FIRST LETTER CHANGED": [
+        "DUSKY",
+        "NOODLE",
+        "PERRIER",
+        "SOXER"
       ]
     }
   ]

@@ -1,10 +1,12 @@
 {
   "answer": [
-    "OPINION",
-    "OUTLOOK",
-    "PERSPECTIVE",
-    "TAKE",
-    "VIEWPOINT"
+    "COUGH",
+    "DRIP",
+    "HACK",
+    "SNEEZE",
+    "SNIFFLE",
+    "SNORT",
+    "WHEEZE"
   ],
-  "spangram": "MYTWOCENTS"
+  "spangram": "COLDSYMPTOM"
 }
