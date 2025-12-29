@@ -1,12 +1,11 @@
 {
   "answer": [
-    "COUGH",
-    "DRIP",
-    "HACK",
-    "SNEEZE",
-    "SNIFFLE",
-    "SNORT",
-    "WHEEZE"
+    "BELT",
+    "CUFFLINKS",
+    "JACKET",
+    "SHIRT",
+    "TROUSERS",
+    "VEST"
   ],
-  "spangram": "COLDSYMPTOM"
+  "spangram": "SUITYOURSELF"
 }
