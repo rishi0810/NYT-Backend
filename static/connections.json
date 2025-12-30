@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "TENDENCY": [
-        "COURSE",
-        "DIRECTION",
-        "TIDE",
-        "TREND"
+      "INTENTION": [
+        "AIM",
+        "GOAL",
+        "OBJECT",
+        "POINT"
       ]
     },
     {
-      "BIOLOGICAL STRUCTURES": [
-        "CELL",
-        "GENE",
-        "PROTEIN",
-        "TISSUE"
+      "MEASURING DEVICES": [
+        "CLOCK",
+        "COMPASS",
+        "RULER",
+        "SCALE"
       ]
     },
     {
-      "SUMMER OLYMPIC EVENTS": [
-        "ATHLETICS",
-        "EQUESTRIAN",
-        "SWIMMING",
-        "TRIATHLON"
+      "PARTS OF A FLIGHT": [
+        "CLIMB",
+        "TAKEOFF",
+        "TAXI",
+        "TOUCHDOWN"
       ]
     },
     {
-      "CAR BRAND HOMOPHONES": [
-        "INFINITY",
-        "MINNIE",
-        "OPAL",
-        "OUTIE"
+      "BIKE ACCESSORIES": [
+        "BASKET",
+        "BELL",
+        "RACK",
+        "REFLECTOR"
       ]
     }
   ]
