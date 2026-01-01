@@ -1,11 +1,12 @@
 {
   "answer": [
-    "CIRCLE",
-    "ORBIT",
-    "PIROUETTE",
-    "ROTATE",
-    "SPIN",
-    "WHIRL"
+    "AROMATIC",
+    "BITTER",
+    "BOLD",
+    "NUTTY",
+    "SMOOTH",
+    "STRONG",
+    "VELVETY"
   ],
-  "spangram": "ROUNDANDROUND"
+  "spangram": "COFFEE"
 }
