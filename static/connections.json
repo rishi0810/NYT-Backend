@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "WRITE": [
-        "JOT",
-        "LOG",
-        "NOTE",
-        "RECORD"
+      "ARMY RANKS": [
+        "CAPTAIN",
+        "GENERAL",
+        "MAJOR",
+        "PRIVATE"
       ]
     },
     {
-      "SHTICK": [
-        "BIT",
-        "GAG",
-        "NUMBER",
-        "ROUTINE"
+      "LEGWEAR IN THE SINGULAR": [
+        "JEAN",
+        "JOGGER",
+        "OVERALL",
+        "SLACK"
       ]
     },
     {
-      "BENCHMARK": [
+      "RIHANNA #1 HITS": [
+        "DIAMONDS",
+        "SOS",
+        "UMBRELLA",
+        "WORK"
+      ]
+    },
+    {
+      "WET ___": [
         "BAR",
-        "EXAMPLE",
-        "METRIC",
-        "STANDARD"
-      ]
-    },
-    {
-      "VEGETABLES MINUS STARTING LETTER": [
-        "ALE",
-        "EEK",
-        "HIVE",
-        "QUASH"
+        "BLANKET",
+        "NURSE",
+        "WILLY"
       ]
     }
   ]
