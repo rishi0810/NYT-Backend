@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "GROUP": [
-        "BAND",
-        "CREW",
-        "PACK",
-        "TEAM"
+      "LIVING ROOM FURNITURE": [
+        "ARMCHAIR",
+        "BOOKCASE",
+        "CONSOLE",
+        "FOOTSTOOL"
       ]
     },
     {
-      "PLUNGE": [
-        "CRASH",
-        "CRATER",
-        "DROP",
-        "TANK"
+      "EXPERIENCE LEVELS": [
+        "EXPERT",
+        "INTERMEDIATE",
+        "NOVICE",
+        "PROFICIENT"
       ]
     },
     {
-      "PARTS OF A SINK": [
-        "BASIN",
-        "DRAIN",
-        "FAUCET",
-        "STOPPER"
+      "PROMISE": [
+        "AGREEMENT",
+        "COMPACT",
+        "HANDSHAKE",
+        "UNDERSTANDING"
       ]
     },
     {
-      "EQUESTRIAN GEAR": [
-        "BIT",
-        "CROP",
-        "HALTER",
-        "SADDLE"
+      "ENDING IN U.S. COINS": [
+        "CEFTAZIDIME",
+        "HEADQUARTER",
+        "MONEYPENNY",
+        "PUMPERNICKEL"
       ]
     }
   ]
