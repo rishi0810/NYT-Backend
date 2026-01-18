@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "SPREAD OVER": [
-        "BLANKET",
-        "COAT",
-        "COVER",
-        "PLASTER"
+      "FEATURES OF A DUCK": [
+        "BILL",
+        "FEATHERS",
+        "WEBBING",
+        "WINGS"
       ]
     },
     {
-      "THROW": [
-        "CAST",
-        "HURL",
-        "PELT",
-        "SLING"
+      "DESTROY": [
+        "BREAK",
+        "DAMAGE",
+        "TOTAL",
+        "WRECK"
       ]
     },
     {
-      "ANAGRAMS": [
-        "INKS",
-        "KINS",
-        "SINK",
-        "SKIN"
+      "FOUND ON A BOOK JACKET": [
+        "AUTHOR",
+        "QUOTE",
+        "SYNOPSIS",
+        "TITLE"
       ]
     },
     {
-      "FIRST WORDS OF KIDS' GAMES": [
-        "CAPTURE",
-        "HIDE",
-        "RED",
-        "SIMON"
+      "CLASSIC HOLLYWOOD ACTORS": [
+        "COOPER",
+        "GRANT",
+        "PECK",
+        "PRICE"
       ]
     }
   ]
