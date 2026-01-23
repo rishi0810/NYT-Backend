@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "WELL-DEFINED, AS AN IMAGE": [
-        "CLEAR",
-        "CRISP",
-        "DISTINCT",
-        "SHARP"
+      "FACIAL FEATURES": [
+        "CHEEK",
+        "EYE",
+        "LIP",
+        "TEMPLE"
       ]
     },
     {
-      "FRUIT DESSERTS": [
-        "COBBLER",
-        "CRUMBLE",
-        "STRUDEL",
-        "TURNOVER"
+      "KINDS OF PARKING": [
+        "GARAGE",
+        "METER",
+        "STREET",
+        "VALET"
       ]
     },
     {
-      "BUNGLE": [
-        "FLUFF",
-        "FUMBLE",
-        "MISS",
-        "TRIP"
+      "IMPERIAL UNITS": [
+        "ACRE",
+        "BUSHEL",
+        "FOOT",
+        "STONE"
       ]
     },
     {
-      "MAGAZINES PLUS A LETTER": [
-        "ELLEN",
-        "SPINY",
-        "TIMER",
-        "USE"
+      "WORDS BEFORE \"LIGHT\"": [
+        "FLOOD",
+        "LIME",
+        "PILOT",
+        "TRAFFIC"
       ]
     }
   ]
