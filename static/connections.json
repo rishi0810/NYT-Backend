@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "FACIAL FEATURES": [
-        "CHEEK",
-        "EYE",
-        "LIP",
-        "TEMPLE"
+      "GEAR FOR A BOXER": [
+        "GLOVES",
+        "MOUTHGUARD",
+        "ROBE",
+        "SHORTS"
       ]
     },
     {
-      "KINDS OF PARKING": [
-        "GARAGE",
-        "METER",
-        "STREET",
-        "VALET"
+      "CHAMPIONSHIP": [
+        "AWARD",
+        "CROWN",
+        "CUP",
+        "TITLE"
       ]
     },
     {
-      "IMPERIAL UNITS": [
-        "ACRE",
-        "BUSHEL",
-        "FOOT",
-        "STONE"
+      "KINDS OF NECKLINES": [
+        "BOAT",
+        "CREW",
+        "HALTER",
+        "SCOOP"
       ]
     },
     {
-      "WORDS BEFORE \"LIGHT\"": [
-        "FLOOD",
-        "LIME",
-        "PILOT",
-        "TRAFFIC"
+      "SNOW ___": [
+        "CONE",
+        "GLOBE",
+        "LEOPARD",
+        "PEA"
       ]
     }
   ]
