@@ -1,12 +1,10 @@
 {
   "answer": [
-    "BATON",
-    "CANE",
-    "DOWEL",
-    "PICKET",
-    "POLE",
-    "POST",
-    "STAKE"
+    "CHARDONNAY",
+    "MALBEC",
+    "MERLOT",
+    "SHIRAZ",
+    "ZINFANDEL"
   ],
-  "spangram": "STICKYSITUATION"
+  "spangram": "BYTHEBOTTLE"
 }
