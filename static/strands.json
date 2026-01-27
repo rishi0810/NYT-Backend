@@ -1,10 +1,13 @@
 {
   "answer": [
-    "CHARDONNAY",
-    "MALBEC",
-    "MERLOT",
-    "SHIRAZ",
-    "ZINFANDEL"
+    "BANDIT",
+    "BLUE",
+    "BUDDY",
+    "CHAMP",
+    "ROVER",
+    "SCOUT",
+    "SCRUFFY",
+    "SPOT"
   ],
-  "spangram": "BYTHEBOTTLE"
+  "spangram": "HEREBOY"
 }
