@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "MAKEUP": [
-        "BRONZER",
-        "FOUNDATION",
-        "LINER",
-        "STAIN"
+      "REGION": [
+        "AREA",
+        "CLUSTER",
+        "PATCH",
+        "POCKET"
       ]
     },
     {
-      "FEATURED IN GOLDILOCKS AND THE THREE BEARS": [
-        "BEAR",
-        "BED",
-        "GOLDILOCKS",
-        "PORRIDGE"
+      "GROOMING ITEMS": [
+        "COMB",
+        "COMPACT",
+        "NAIL FILE",
+        "TWEEZERS"
       ]
     },
     {
-      "ENDING WITH DRINKING VESSELS": [
-        "FIBERGLASS",
-        "SILVERSTEIN",
-        "SMUG",
-        "STUMBLER"
+      "THINGS WITH ADHESIVE SURFACES": [
+        "BAND-AID",
+        "LINT ROLLER",
+        "STICKER",
+        "TAPE"
       ]
     },
     {
-      "HOMOPHONES OF WORDS MEANING \"BRUTAL\"": [
-        "GOREY",
-        "GRIMM",
-        "GRIZZLY",
-        "SCARRY"
+      "___ HAND": [
+        "HELPING",
+        "MINUTE",
+        "POKER",
+        "UPPER"
       ]
     }
   ]

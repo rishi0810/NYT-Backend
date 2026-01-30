@@ -1,10 +1,11 @@
 {
   "answer": [
-    "CELEBRITY",
-    "HERO",
-    "ICON",
-    "PERSONALITY",
-    "SUPERSTAR"
+    "ATLAS",
+    "BEACON",
+    "COMPASS",
+    "LANDMARK",
+    "SEXTANT",
+    "STAR"
   ],
-  "spangram": "CLAIMTOFAME"
+  "spangram": "FINDYOURWAY"
 }
