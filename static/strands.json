@@ -1,11 +1,12 @@
 {
   "answer": [
-    "ATLAS",
-    "BEACON",
-    "COMPASS",
-    "LANDMARK",
-    "SEXTANT",
-    "STAR"
+    "BASE",
+    "BASKET",
+    "FOOT",
+    "PADDLE",
+    "PICKLE",
+    "RACQUET",
+    "VOLLEY"
   ],
-  "spangram": "FINDYOURWAY"
+  "spangram": "HAVEABALL"
 }

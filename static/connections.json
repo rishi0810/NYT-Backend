@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "REGION": [
-        "AREA",
-        "CLUSTER",
-        "PATCH",
-        "POCKET"
+      "KINDS OF PARTIES": [
+        "BALL",
+        "MIXER",
+        "RECEPTION",
+        "SHOWER"
       ]
     },
     {
-      "GROOMING ITEMS": [
-        "COMB",
-        "COMPACT",
-        "NAIL FILE",
-        "TWEEZERS"
+      "WAYS TO APPLY PAINT": [
+        "BRUSH",
+        "PALETTE KNIFE",
+        "ROLLER",
+        "SPRAY CAN"
       ]
     },
     {
-      "THINGS WITH ADHESIVE SURFACES": [
-        "BAND-AID",
-        "LINT ROLLER",
-        "STICKER",
-        "TAPE"
+      "Y-SHAPED THINGS": [
+        "SLINGSHOT",
+        "STETHOSCOPE",
+        "TUNING FORK",
+        "WISHBONE"
       ]
     },
     {
-      "___ HAND": [
-        "HELPING",
-        "MINUTE",
-        "POKER",
-        "UPPER"
+      "WHAT \"SHIFT\" MIGHT REFER TO": [
+        "COMPUTER KEY",
+        "DRESS",
+        "FLUCTUATION",
+        "WORK PERIOD"
       ]
     }
   ]
