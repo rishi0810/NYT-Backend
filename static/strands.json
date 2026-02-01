@@ -1,12 +1,11 @@
 {
   "answer": [
-    "BASE",
-    "BASKET",
-    "FOOT",
-    "PADDLE",
-    "PICKLE",
-    "RACQUET",
-    "VOLLEY"
+    "AWARD",
+    "BONUS",
+    "DONATION",
+    "GRANT",
+    "OFFERING",
+    "PRESENT"
   ],
-  "spangram": "HAVEABALL"
+  "spangram": "GENEROSITY"
 }
