@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "PUBLICIZE": [
-        "BOOST",
-        "HYPE",
-        "PITCH",
-        "PLUG"
+      "DURATION": [
+        "INTERVAL",
+        "PERIOD",
+        "SPAN",
+        "STRETCH"
       ]
     },
     {
-      "KINDS OF SHOES": [
-        "CLOG",
-        "FLAT",
-        "MULE",
-        "WEDGE"
+      "CREDENTIALS FOR ENTRY": [
+        "LANYARD",
+        "PASS",
+        "STAMP",
+        "WRISTBAND"
       ]
     },
     {
-      "ANTHEM": [
-        "BANGER",
-        "BOP",
-        "HEATER",
-        "JAM"
+      "MODERN CRIME SERIES PROTAGONISTS": [
+        "BOSCH",
+        "CROSS",
+        "REACHER",
+        "RYAN"
       ]
     },
     {
-      "MUSICAL INSTRUMENTS PLUS STARTING LETTER": [
-        "GLUTE",
-        "MORGAN",
-        "SHARP",
-        "THORN"
+      "TREES PLUS A LETTER": [
+        "FAIR",
+        "MARPLE",
+        "POPULAR",
+        "PSALM"
       ]
     }
   ]
