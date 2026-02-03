@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "DURATION": [
-        "INTERVAL",
-        "PERIOD",
-        "SPAN",
-        "STRETCH"
+      "CUT INTO PIECES": [
+        "CUBE",
+        "DICE",
+        "HASH",
+        "MINCE"
       ]
     },
     {
-      "CREDENTIALS FOR ENTRY": [
-        "LANYARD",
-        "PASS",
-        "STAMP",
-        "WRISTBAND"
+      "PROVIDE WITH A PLACE TO STAY": [
+        "BOARD",
+        "HOUSE",
+        "LODGE",
+        "QUARTER"
       ]
     },
     {
-      "MODERN CRIME SERIES PROTAGONISTS": [
-        "BOSCH",
-        "CROSS",
-        "REACHER",
-        "RYAN"
+      "KINDS OF GOLF CLUBS": [
+        "IRON",
+        "PUTTER",
+        "WEDGE",
+        "WOOD"
       ]
     },
     {
-      "TREES PLUS A LETTER": [
-        "FAIR",
-        "MARPLE",
-        "POPULAR",
-        "PSALM"
+      "MEMORY ___": [
+        "CARD",
+        "FOAM",
+        "HOLE",
+        "LANE"
       ]
     }
   ]

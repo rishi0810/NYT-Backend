@@ -1,11 +1,11 @@
 {
   "answer": [
-    "CASSOWARY",
-    "CONDOR",
-    "OSTRICH",
-    "PELICAN",
-    "PENGUIN",
-    "RHEA"
+    "ASTERISK",
+    "BRACKET",
+    "CARET",
+    "HASHTAG",
+    "TILDE",
+    "UNDERSCORE"
   ],
-  "spangram": "BIGBIRDS"
+  "spangram": "SYMBOL"
 }
