@@ -1,11 +1,11 @@
 {
   "answer": [
-    "ASTERISK",
-    "BRACKET",
-    "CARET",
-    "HASHTAG",
-    "TILDE",
-    "UNDERSCORE"
+    "COLLECTIBLE",
+    "DICE",
+    "GAME",
+    "MINIATURE",
+    "MODEL",
+    "PUZZLE"
   ],
-  "spangram": "SYMBOL"
+  "spangram": "HOBBYSHOP"
 }
