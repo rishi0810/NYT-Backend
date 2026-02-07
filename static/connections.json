@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "ITEMS AT A COFFEE STATION": [
-        "CUP",
-        "LID",
-        "STIRRER",
-        "STRAW"
+      "PIPS ON A DIE": [
+        null,
+        null,
+        null,
+        null
       ]
     },
     {
-      "THINGS WITH STRIPES": [
-        "CANDY CANE",
-        "CROSSWALK",
-        "REFEREE",
-        "TIGER"
+      "SYMBOLS USED IN ARITHMETIC": [
+        null,
+        null,
+        null,
+        null
       ]
     },
     {
-      "WORDS BEFORE \"FLY\" IN INSECT NAMES": [
-        "BUTTER",
-        "DRAGON",
-        "FIRE",
-        "HORSE"
+      "PUNCTUATION MARKS": [
+        null,
+        null,
+        null,
+        null
       ]
     },
     {
-      "HOMOPHONES OF GREETINGS": [
-        "CHOW",
-        "HAY",
-        "HIGH",
-        "YEOH"
+      "LOWERCASE LETTERS": [
+        null,
+        null,
+        null,
+        null
       ]
     }
   ]
