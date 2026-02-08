@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "PIPS ON A DIE": [
-        null,
-        null,
-        null,
-        null
+      "SUPPRESS": [
+        "GAG",
+        "INHIBIT",
+        "MUZZLE",
+        "SILENCE"
       ]
     },
     {
-      "SYMBOLS USED IN ARITHMETIC": [
-        null,
-        null,
-        null,
-        null
+      "SAME OLD STUFF": [
+        "DRILL",
+        "GRIND",
+        "HABIT",
+        "ROUTINE"
       ]
     },
     {
-      "PUNCTUATION MARKS": [
-        null,
-        null,
-        null,
-        null
+      "FEATURES OF A STRONG PASSWORD": [
+        "LENGTH",
+        "NUMBER",
+        "SYMBOL",
+        "UPPERCASE"
       ]
     },
     {
-      "LOWERCASE LETTERS": [
-        null,
-        null,
-        null,
-        null
+      "WORDS AFTER \"TWO\"": [
+        "BIT",
+        "CENTS",
+        "FACED",
+        "TIMER"
       ]
     }
   ]
