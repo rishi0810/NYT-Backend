@@ -1,11 +1,11 @@
 {
   "answer": [
-    "LUGGAGE",
-    "PASSPORT",
-    "PILOT",
-    "RUNWAY",
-    "SECURITY",
-    "TARMAC"
+    "BRICK",
+    "COMPOSITE",
+    "STONE",
+    "STUCCO",
+    "VINYL",
+    "WOOD"
   ],
-  "spangram": "AIRPORTS"
+  "spangram": "SIDINGMATERIAL"
 }
