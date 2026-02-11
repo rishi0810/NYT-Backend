@@ -1,11 +1,11 @@
 {
   "answer": [
-    "BRICK",
-    "COMPOSITE",
-    "STONE",
-    "STUCCO",
-    "VINYL",
-    "WOOD"
+    "ALMOND",
+    "CASHEW",
+    "FILBERT",
+    "MACADAMIA",
+    "PECAN",
+    "PISTACHIO"
   ],
-  "spangram": "SIDINGMATERIAL"
+  "spangram": "GONUTS"
 }
