@@ -1,10 +1,11 @@
 {
   "answer": [
-    "CRITICAL",
-    "DECISIVE",
-    "IMPERATIVE",
-    "PIVOTAL",
-    "RISKY"
+    "CHART",
+    "DIAGRAM",
+    "INFOGRAPHIC",
+    "MODEL",
+    "PHOTO",
+    "VIDEO"
   ],
-  "spangram": "HIGHSTAKES"
+  "spangram": "VISUALAIDS"
 }
