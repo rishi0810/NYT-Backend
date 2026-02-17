@@ -1,12 +1,12 @@
 {
   "answer": [
-    "COMBO",
-    "CROSSOVER",
-    "JUMP",
-    "LIFT",
-    "LOOP",
-    "SPIN",
-    "THROW"
+    "DRAGON",
+    "GOAT",
+    "HORSE",
+    "MONKEY",
+    "RABBIT",
+    "SNAKE",
+    "TIGER"
   ],
-  "spangram": "FIGURESKATING"
+  "spangram": "ZODIACSIGNS"
 }
