@@ -1,12 +1,10 @@
 {
   "answer": [
-    "DRAGON",
-    "GOAT",
-    "HORSE",
-    "MONKEY",
-    "RABBIT",
-    "SNAKE",
-    "TIGER"
+    "BOBSLED",
+    "CURLING",
+    "HOCKEY",
+    "LUGE",
+    "SNOWBOARDING"
   ],
-  "spangram": "ZODIACSIGNS"
+  "spangram": "WINTERSPORTS"
 }
