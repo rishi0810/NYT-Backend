@@ -1,10 +1,11 @@
 {
   "answer": [
-    "BOBSLED",
-    "CURLING",
-    "HOCKEY",
-    "LUGE",
-    "SNOWBOARDING"
+    "CONCEPT",
+    "HYPOTHESIS",
+    "IDEA",
+    "NOTION",
+    "POSTULATE",
+    "THEORY"
   ],
-  "spangram": "WINTERSPORTS"
+  "spangram": "EUREKA"
 }
