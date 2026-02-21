@@ -1,11 +1,13 @@
 {
   "answer": [
-    "ABRASIVE",
-    "COARSE",
-    "HARSH",
-    "PRICKLY",
-    "ROUGH",
-    "SCRATCHY"
+    "BARLEY",
+    "FLAVOR",
+    "HOPS",
+    "MALT",
+    "SUGAR",
+    "WATER",
+    "WHEAT",
+    "YEAST"
   ],
-  "spangram": "SANDPAPER"
+  "spangram": "HOMEBREW"
 }
