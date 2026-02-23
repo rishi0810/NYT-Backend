@@ -1,11 +1,12 @@
 {
   "answer": [
-    "ANTHEM",
-    "ATHLETE",
-    "FLAG",
-    "FLAME",
-    "MEDAL",
-    "PARADE"
+    "BODY",
+    "BRIDGE",
+    "FRETBOARD",
+    "HEADSTOCK",
+    "NECK",
+    "PEGS",
+    "STRING"
   ],
-  "spangram": "CLOSINGCEREMONY"
+  "spangram": "GUITAR"
 }
