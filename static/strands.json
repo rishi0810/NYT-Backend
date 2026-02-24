@@ -1,12 +1,9 @@
 {
   "answer": [
-    "BODY",
-    "BRIDGE",
-    "FRETBOARD",
-    "HEADSTOCK",
-    "NECK",
-    "PEGS",
-    "STRING"
+    "DICTIONARY",
+    "DIRECTORY",
+    "ENCYCLOPEDIA",
+    "THESAURUS"
   ],
-  "spangram": "GUITAR"
+  "spangram": "LOOKITUP"
 }
