@@ -1,9 +1,11 @@
 {
   "answer": [
-    "DICTIONARY",
-    "DIRECTORY",
-    "ENCYCLOPEDIA",
-    "THESAURUS"
+    "LANDER",
+    "MODULE",
+    "ORBITER",
+    "PROBE",
+    "ROVER",
+    "SATELLITE"
   ],
-  "spangram": "LOOKITUP"
+  "spangram": "SPACECRAFT"
 }
