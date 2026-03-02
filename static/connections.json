@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "LITTLE BITE": [
-        "CANAPÉ",
-        "FINGER FOOD",
-        "HORS D'OEUVRE",
-        "TAPA"
+      "GYMNASTICS APPARATUS": [
+        "BEAM",
+        "HORSE",
+        "RINGS",
+        "VAULT"
       ]
     },
     {
-      "CONSTRUCTION EQUIPMENT": [
-        "HARD HAT",
-        "LADDER",
-        "NAIL GUN",
-        "TOOL BELT"
+      "STATUS": [
+        "POSITION",
+        "RANK",
+        "STANDING",
+        "STATION"
       ]
     },
     {
-      "VACATION EMOJI": [
-        "AIRPLANE",
-        "LUGGAGE",
-        "PALM TREE",
-        "SMILING FACE WITH SUNGLASSES"
+      "BASEBALL CALLS": [
+        "BALL",
+        "FOUL",
+        "SAFE",
+        "STRIKE"
       ]
     },
     {
-      "THINGS YOU DON'T EAT THAT END IN FOODS": [
-        "COPYPASTA",
-        "JOHANNESBURGER",
-        "KNUCKLE SANDWICH",
-        "LICORICE PIZZA"
+      "___ CHICKEN": [
+        "FUNKY",
+        "POPCORN",
+        "RUBBER",
+        "SPRING"
       ]
     }
   ]
