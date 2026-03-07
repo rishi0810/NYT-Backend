@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "FREELOADER": [
-        "LEECH",
-        "MOOCH",
-        "PARASITE",
-        "SPONGE"
+      "$1": [
+        "BUCK",
+        "DOLLAR",
+        "ONE",
+        "SINGLE"
       ]
     },
     {
-      "CONCEALING COVER": [
-        "BLANKET",
-        "CLOAK",
-        "CURTAIN",
-        "LAYER"
+      "\"WHEREFORE ART THOU ROMEO?\"": [
+        "ART",
+        "ROMEO",
+        "THOU",
+        "WHEREFORE"
       ]
     },
     {
-      "WAYS ONE MIGHT REFER TO #": [
-        "HASH",
-        "NUMBER",
-        "POUND",
-        "SHARP"
+      "WORDS BEFORE \"CASTLE\"": [
+        "BOUNCY",
+        "NEW",
+        "SAND",
+        "WHITE"
       ]
     },
     {
-      "WORDS FOR LUCIDITY, IN THE SINGULAR": [
-        "FACULTY",
-        "MARBLE",
-        "SENSE",
-        "WIT"
+      "WHERE YOU MIGHT MAKE A CONNECTION": [
+        null,
+        "AIRPORT",
+        "DATING APP",
+        "INTERNET CAFE"
       ]
     }
   ]
