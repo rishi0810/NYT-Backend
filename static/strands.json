@@ -1,11 +1,11 @@
 {
   "answer": [
-    "CHALICE",
-    "GOBLET",
-    "SNIFTER",
-    "STEIN",
-    "TANKARD",
-    "TUMBLER"
+    "CLOCK",
+    "FORWARD",
+    "HOUR",
+    "LOSING",
+    "SLEEP",
+    "SPRING"
   ],
-  "spangram": "DRINKWARE"
+  "spangram": "DAYLIGHTSAVINGS"
 }

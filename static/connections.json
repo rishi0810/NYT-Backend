@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "$1": [
-        "BUCK",
-        "DOLLAR",
-        "ONE",
-        "SINGLE"
+      "CITIES": [
+        "LIMA",
+        "NICE",
+        "OSAKA",
+        "PHOENIX"
       ]
     },
     {
-      "\"WHEREFORE ART THOU ROMEO?\"": [
-        "ART",
-        "ROMEO",
-        "THOU",
-        "WHEREFORE"
+      "PALINDROMES": [
+        "EYE",
+        "REFER",
+        "ROTATOR",
+        "SELES"
       ]
     },
     {
-      "WORDS BEFORE \"CASTLE\"": [
-        "BOUNCY",
-        "NEW",
-        "SAND",
-        "WHITE"
+      "HORROR MOVIES MINUS \"S\"": [
+        "GREMLIN",
+        "JAW",
+        "SINNER",
+        "TREMOR"
       ]
     },
     {
-      "WHERE YOU MIGHT MAKE A CONNECTION": [
-        null,
-        "AIRPORT",
-        "DATING APP",
-        "INTERNET CAFE"
+      "STARTING WITH SLANG FOR ZERO": [
+        "JACKET",
+        "NADAL",
+        "SQUATTER",
+        "ZIPPER"
       ]
     }
   ]
