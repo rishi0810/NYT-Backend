@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "CITIES": [
-        "LIMA",
-        "NICE",
-        "OSAKA",
-        "PHOENIX"
+      "STARTING WITH THE SAME SOUND, SPELLED DIFFERENTLY": [
+        "WAREHOUSE",
+        "WEARABLE",
+        "WEREWOLF",
+        "WHEREFORE"
       ]
     },
     {
-      "PALINDROMES": [
-        "EYE",
-        "REFER",
-        "ROTATOR",
-        "SELES"
+      "METAPHORS FOR PUBLIC SCRUTINY": [
+        "FISHBOWL",
+        "HOT SEAT",
+        "MICROSCOPE",
+        "SPOTLIGHT"
       ]
     },
     {
-      "HORROR MOVIES MINUS \"S\"": [
-        "GREMLIN",
-        "JAW",
-        "SINNER",
-        "TREMOR"
+      "MUPPETS": [
+        "ANIMAL",
+        "BEAKER",
+        "FOZZIE",
+        "GONZO"
       ]
     },
     {
-      "STARTING WITH SLANG FOR ZERO": [
-        "JACKET",
-        "NADAL",
-        "SQUATTER",
-        "ZIPPER"
+      "THEY FEATURE A BOSS": [
+        "COMPANY",
+        "E STREET BAND",
+        "MAFIA",
+        "VIDEO GAME"
       ]
     }
   ]
