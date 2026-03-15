@@ -1,12 +1,11 @@
 {
   "answer": [
-    "CRUST",
-    "EDGES",
-    "FILLING",
-    "FRUIT",
-    "GLAZE",
-    "LATTICE",
-    "VENT"
+    "ACTOR",
+    "ACTRESS",
+    "DIRECTOR",
+    "PICTURE",
+    "SONG",
+    "SOUND"
   ],
-  "spangram": "HAPPYPIDAY"
+  "spangram": "ACADEMYAWARD"
 }
