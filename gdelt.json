@@ -1,5 +1,5 @@
 [
-    {
+  {
     "strike_type": "airstrike",
     "attacker": "Russia",
     "target_name": "Multiple Regions — Energy & Civilian Infrastructure",
@@ -10,7 +10,11 @@
     "location_name": "Multiple, Ukraine",
     "latitude": 48.3794,
     "longitude": 31.1656,
-    "occurred_at": "2026-03-14 00:00:00",
+    "occurred_at": {
+      "date": "2026-03-14",
+      "hour": null,
+      "minute": null
+    },
     "source_url": "https://www.theguardian.com/world"
   },
   {
@@ -24,7 +28,11 @@
     "location_name": "Nuseirat, Gaza",
     "latitude": 31.4475,
     "longitude": 34.3922,
-    "occurred_at": "2026-03-15 00:00:00",
+    "occurred_at": {
+      "date": "2026-03-15",
+      "hour": null,
+      "minute": null
+    },
     "source_url": "https://www.timesofisrael.com/middle-east"
   },
   {
@@ -38,7 +46,11 @@
     "location_name": "Central Gaza, Gaza",
     "latitude": 31.4171,
     "longitude": 34.3503,
-    "occurred_at": "2026-03-15 00:00:00",
+    "occurred_at": {
+      "date": "2026-03-15",
+      "hour": null,
+      "minute": null
+    },
     "source_url": "https://www.straitstimes.com/world/middle-east"
   },
   {
@@ -52,7 +64,11 @@
     "location_name": "Burj Qalawiyah, Lebanon",
     "latitude": 33.2269,
     "longitude": 35.3931,
-    "occurred_at": "2026-03-14 23:00:00",
+    "occurred_at": {
+      "date": "2026-03-14",
+      "hour": "02",
+      "minute": "30"
+    },
     "source_url": "https://www.thenationalnews.com/mena/lebanon"
   },
   {
@@ -66,7 +82,11 @@
     "location_name": "Multiple, Lebanon",
     "latitude": 33.8547,
     "longitude": 35.8623,
-    "occurred_at": "2026-03-11 00:00:00",
+    "occurred_at": {
+      "date": "2026-03-11",
+      "hour": null,
+      "minute": null
+    },
     "source_url": "https://www.trtworld.com/middle-east"
   },
   {
@@ -80,7 +100,11 @@
     "location_name": "Golis Mountains, Somalia",
     "latitude": 10.8800,
     "longitude": 49.0700,
-    "occurred_at": "2026-03-08 00:00:00",
+    "occurred_at": {
+      "date": "2026-03-08",
+      "hour": null,
+      "minute": null
+    },
     "source_url": "https://www.africom.mil/pressrelease"
   },
   {
@@ -94,7 +118,11 @@
     "location_name": "Tahoua, Niger",
     "latitude": 14.8888,
     "longitude": 5.2692,
-    "occurred_at": "2026-03-08 23:00:00",
+    "occurred_at": {
+      "date": "2026-03-09",
+      "hour": "03",
+      "minute": "30"
+    },
     "source_url": "https://apanews.net/news"
   },
   {
@@ -108,7 +136,11 @@
     "location_name": "Donetsk, Ukraine",
     "latitude": 48.0731,
     "longitude": 37.7394,
-    "occurred_at": "2026-03-07 00:00:00",
+    "occurred_at": {
+      "date": "2026-03-07",
+      "hour": null,
+      "minute": null
+    },
     "source_url": "https://kyivindependent.com/national"
   },
   {
@@ -122,7 +154,11 @@
     "location_name": "Multiple, Ukraine",
     "latitude": 48.3794,
     "longitude": 31.1656,
-    "occurred_at": "2026-03-13 00:00:00",
+    "occurred_at": {
+      "date": "2026-03-13",
+      "hour": null,
+      "minute": null
+    },
     "source_url": "https://censor.net/en/news"
   },
   {
@@ -136,7 +172,11 @@
     "location_name": "Gaza City, Gaza",
     "latitude": 31.5078,
     "longitude": 34.4844,
-    "occurred_at": "2026-03-13 00:00:00",
+    "occurred_at": {
+      "date": "2026-03-13",
+      "hour": null,
+      "minute": null
+    },
     "source_url": "https://www.aljazeera.com/news"
   },
   {
@@ -150,7 +190,11 @@
     "location_name": "Baalbek, Lebanon",
     "latitude": 34.0062,
     "longitude": 36.2085,
-    "occurred_at": "2026-03-04 03:10:00",
+    "occurred_at": {
+      "date": "2026-03-04",
+      "hour": "06",
+      "minute": "40"
+    },
     "source_url": "https://today.lorientlejour.com/lebanon"
   },
   {
@@ -164,7 +208,11 @@
     "location_name": "Yamba, Burkina Faso",
     "latitude": 12.0667,
     "longitude": 0.3500,
-    "occurred_at": "2026-03-06 15:00:00",
+    "occurred_at": {
+      "date": "2026-03-06",
+      "hour": "20",
+      "minute": "30"
+    },
     "source_url": "https://maghrebi.org/africa/burkina-faso"
   },
   {
@@ -178,7 +226,11 @@
     "location_name": "Nuseirat, Gaza",
     "latitude": 31.4475,
     "longitude": 34.3922,
-    "occurred_at": "2026-03-11 00:00:00",
+    "occurred_at": {
+      "date": "2026-03-11",
+      "hour": null,
+      "minute": null
+    },
     "source_url": "https://www.middleeastmonitor.com/"
   },
   {
@@ -192,7 +244,11 @@
     "location_name": "Multiple, Ukraine",
     "latitude": 48.3794,
     "longitude": 31.1656,
-    "occurred_at": "2026-03-14 18:00:00",
+    "occurred_at": {
+      "date": "2026-03-14",
+      "hour": "21",
+      "minute": "30"
+    },
     "source_url": "https://eaworldview.com/europe/ukraine"
   },
   {
@@ -206,10 +262,13 @@
     "location_name": "Southern Lebanon",
     "latitude": 33.2705,
     "longitude": 35.2038,
-    "occurred_at": "2026-03-15 00:00:00",
+    "occurred_at": {
+      "date": "2026-03-15",
+      "hour": null,
+      "minute": null
+    },
     "source_url": "https://www.aljazeera.com/news"
-  }
-,
+  },
   {
     "strike_type": "drone",
     "attacker": "Israel",
@@ -221,7 +280,11 @@
     "location_name": "Beirut, Lebanon",
     "latitude": 33.8547,
     "longitude": 35.5146,
-    "occurred_at": "2026-01-02 15:45:00",
+    "occurred_at": {
+      "date": "2026-01-02",
+      "hour": "21",
+      "minute": "15"
+    },
     "source_url": "https://www.reuters.com/world/middle-east/hamas-deputy-leader-saleh-al-arouri-killed-lebanon-drone-strike-2024-01-02/"
   },
   {
@@ -235,7 +298,11 @@
     "location_name": "Kerman, Iran",
     "latitude": 30.2839,
     "longitude": 57.0834,
-    "occurred_at": "2026-01-03 11:30:00",
+    "occurred_at": {
+      "date": "2026-01-03",
+      "hour": "16",
+      "minute": "50"
+    },
     "source_url": "https://www.aljazeera.com/news/2024/1/3/dozens-killed-in-blasts-near-iran-general-qassem-soleimanis-tomb"
   },
   {
@@ -249,7 +316,11 @@
     "location_name": "Baghdad, Iraq",
     "latitude": 33.3152,
     "longitude": 44.3661,
-    "occurred_at": "2026-01-04 09:00:00",
+    "occurred_at": {
+      "date": "2026-01-04",
+      "hour": "14",
+      "minute": "30"
+    },
     "source_url": "https://apnews.com/article/iraq-us-strike-militia-commander-killed-2024"
   },
   {
@@ -263,7 +334,11 @@
     "location_name": "Mount Meron, Israel",
     "latitude": 32.9995,
     "longitude": 35.4140,
-    "occurred_at": "2026-01-06 08:00:00",
+    "occurred_at": {
+      "date": "2026-01-06",
+      "hour": "11",
+      "minute": "30"
+    },
     "source_url": "https://www.reuters.com/world/middle-east/hezbollah-fires-rockets-israel-response-killing-hamas-leader-2024-01-06/"
   },
   {
@@ -277,7 +352,11 @@
     "location_name": "Khirbet Selm, Lebanon",
     "latitude": 33.2269,
     "longitude": 35.4328,
-    "occurred_at": "2026-01-08 10:15:00",
+    "occurred_at": {
+      "date": "2026-01-08",
+      "hour": "13",
+      "minute": "45"
+    },
     "source_url": "https://www.aljazeera.com/news/2024/1/8/israeli-strike-kills-top-hezbollah-commander-in-lebanon"
   },
   {
@@ -291,7 +370,11 @@
     "location_name": "Multiple, Yemen",
     "latitude": 15.3694,
     "longitude": 44.1910,
-    "occurred_at": "2026-01-12 02:30:00",
+    "occurred_at": {
+      "date": "2026-01-12",
+      "hour": "05",
+      "minute": "00"
+    },
     "source_url": "https://www.bbc.com/news/world-middle-east-67955561"
   },
   {
@@ -305,7 +388,11 @@
     "location_name": "Erbil, Iraq",
     "latitude": 36.1900,
     "longitude": 44.0092,
-    "occurred_at": "2026-01-15 20:30:00",
+    "occurred_at": {
+      "date": "2026-01-16",
+      "hour": "02",
+      "minute": "00"
+    },
     "source_url": "https://www.reuters.com/world/middle-east/irans-revolutionary-guards-say-they-attacked-espionage-centers-iraqs-erbil-2024-01-15/"
   },
   {
@@ -319,7 +406,11 @@
     "location_name": "Koh-e-Sabz, Pakistan",
     "latitude": 27.2000,
     "longitude": 63.3000,
-    "occurred_at": "2026-01-16 18:00:00",
+    "occurred_at": {
+      "date": "2026-01-16",
+      "hour": "18",
+      "minute": "30"
+    },
     "source_url": "https://www.aljazeera.com/news/2024/1/16/iran-strikes-targets-in-pakistan-say-reports"
   },
   {
@@ -333,7 +424,11 @@
     "location_name": "Saravan, Iran",
     "latitude": 27.3714,
     "longitude": 62.3333,
-    "occurred_at": "2026-01-18 01:00:00",
+    "occurred_at": {
+      "date": "2026-01-18",
+      "hour": "06",
+      "minute": "30"
+    },
     "source_url": "https://apnews.com/article/pakistan-iran-airstrikes-militants-4be37cd9ec3845b41cf1ec6336e382d6"
   },
   {
@@ -347,7 +442,11 @@
     "location_name": "Al Anbar, Iraq",
     "latitude": 33.7992,
     "longitude": 42.4397,
-    "occurred_at": "2026-01-20 15:30:00",
+    "occurred_at": {
+      "date": "2026-01-20",
+      "hour": "21",
+      "minute": "00"
+    },
     "source_url": "https://www.cnn.com/2024/01/20/middleeast/al-asad-airbase-iraq-attack-intl/index.html"
   },
   {
@@ -361,7 +460,11 @@
     "location_name": "Damascus, Syria",
     "latitude": 33.5138,
     "longitude": 36.2765,
-    "occurred_at": "2026-01-20 10:30:00",
+    "occurred_at": {
+      "date": "2026-01-20",
+      "hour": "13",
+      "minute": "00"
+    },
     "source_url": "https://www.reuters.com/world/middle-east/israeli-strike-damascus-kills-four-iranian-revolutionary-guards-source-2024-01-20/"
   },
   {
@@ -375,7 +478,11 @@
     "location_name": "Gulf of Aden",
     "latitude": 12.5000,
     "longitude": 44.5000,
-    "occurred_at": "2026-01-24 14:00:00",
+    "occurred_at": {
+      "date": "2026-01-24",
+      "hour": "16",
+      "minute": "30"
+    },
     "source_url": "https://apnews.com/article/houthi-attacks-yemen-red-sea-gulf-aden-2024-01-24"
   },
   {
@@ -389,7 +496,11 @@
     "location_name": "Rukban, Jordan",
     "latitude": 33.2981,
     "longitude": 38.5667,
-    "occurred_at": "2026-01-28 04:30:00",
+    "occurred_at": {
+      "date": "2026-01-28",
+      "hour": "07",
+      "minute": "00"
+    },
     "source_url": "https://www.cnn.com/2024/01/28/politics/us-troops-drone-attack-jordan/index.html"
   },
   {
@@ -403,7 +514,11 @@
     "location_name": "Red Sea",
     "latitude": 14.5000,
     "longitude": 42.0000,
-    "occurred_at": "2026-01-30 23:30:00",
+    "occurred_at": {
+      "date": "2026-01-31",
+      "hour": "02",
+      "minute": "00"
+    },
     "source_url": "https://news.usni.org/2024/01/30/uss-gravely-shoots-down-houthi-cruise-missile-in-red-sea"
   },
   {
@@ -417,7 +532,11 @@
     "location_name": "Lake Donuzlav, Crimea",
     "latitude": 45.3333,
     "longitude": 33.0000,
-    "occurred_at": "2026-02-01 02:00:00",
+    "occurred_at": {
+      "date": "2026-02-01",
+      "hour": "04",
+      "minute": "30"
+    },
     "source_url": "https://www.reuters.com/world/europe/ukraine-says-it-sank-russian-missile-corvette-black-sea-2024-02-01/"
   },
   {
@@ -431,7 +550,11 @@
     "location_name": "Multiple, Iraq and Syria",
     "latitude": 34.1234,
     "longitude": 40.8932,
-    "occurred_at": "2026-02-02 21:00:00",
+    "occurred_at": {
+      "date": "2026-02-03",
+      "hour": "02",
+      "minute": "30"
+    },
     "source_url": "https://www.defense.gov/News/News-Stories/Article/Article/3665790/us-conducts-strikes-in-iraq-syria-against-irgc-affiliated-groups/"
   },
   {
@@ -445,7 +568,11 @@
     "location_name": "Baghdad, Iraq",
     "latitude": 33.3152,
     "longitude": 44.3661,
-    "occurred_at": "2026-02-07 21:30:00",
+    "occurred_at": {
+      "date": "2026-02-08",
+      "hour": "00",
+      "minute": "00"
+    },
     "source_url": "https://www.aljazeera.com/news/2024/2/7/us-strike-kills-kataib-hezbollah-commander-in-iraq"
   },
   {
@@ -459,7 +586,11 @@
     "location_name": "Alupka, Crimea",
     "latitude": 44.4167,
     "longitude": 34.0500,
-    "occurred_at": "2026-02-14 06:00:00",
+    "occurred_at": {
+      "date": "2026-02-14",
+      "hour": "08",
+      "minute": "30"
+    },
     "source_url": "https://www.bbc.com/news/world-europe-68293754"
   },
   {
@@ -473,7 +604,11 @@
     "location_name": "Nabatieh, Lebanon",
     "latitude": 33.3775,
     "longitude": 35.4839,
-    "occurred_at": "2026-02-14 20:30:00",
+    "occurred_at": {
+      "date": "2026-02-15",
+      "hour": "00",
+      "minute": "00"
+    },
     "source_url": "https://www.reuters.com/world/middle-east/israeli-strikes-kill-10-lebanese-civilians-single-day-2024-02-14/"
   },
   {
@@ -487,7 +622,11 @@
     "location_name": "Bab el-Mandeb, Red Sea",
     "latitude": 13.5000,
     "longitude": 43.0000,
-    "occurred_at": "2026-02-18 20:00:00",
+    "occurred_at": {
+      "date": "2026-02-18",
+      "hour": "22",
+      "minute": "30"
+    },
     "source_url": "https://www.reuters.com/world/middle-east/uk-mto-receives-report-incident-red-sea-2024-02-18/"
   },
   {
@@ -501,7 +640,11 @@
     "location_name": "Baalbek, Lebanon",
     "latitude": 34.0058,
     "longitude": 36.2181,
-    "occurred_at": "2026-02-26 10:00:00",
+    "occurred_at": {
+      "date": "2026-02-26",
+      "hour": "13",
+      "minute": "30"
+    },
     "source_url": "https://www.bbc.com/news/world-middle-east-68407872"
   },
   {
@@ -515,7 +658,11 @@
     "location_name": "Gaza City, Gaza",
     "latitude": 31.5017,
     "longitude": 34.4668,
-    "occurred_at": "2026-02-29 04:30:00",
+    "occurred_at": {
+      "date": "2026-03-01",
+      "hour": "08",
+      "minute": "00"
+    },
     "source_url": "https://www.aljazeera.com/news/2024/2/29/dozens-killed-injured-by-israeli-fire-in-gaza-while-collecting-food-aid"
   },
   {
@@ -529,7 +676,11 @@
     "location_name": "Odesa, Ukraine",
     "latitude": 46.4825,
     "longitude": 30.7233,
-    "occurred_at": "2026-03-02 01:00:00",
+    "occurred_at": {
+      "date": "2026-03-02",
+      "hour": "04",
+      "minute": "30"
+    },
     "source_url": "https://www.theguardian.com/world/2024/mar/02/odesa-drone-attack-deaths-ukraine-russia"
   },
   {
@@ -543,7 +694,11 @@
     "location_name": "St. Petersburg, Russia",
     "latitude": 59.9311,
     "longitude": 30.3609,
-    "occurred_at": "2026-03-02 07:15:00",
+    "occurred_at": {
+      "date": "2026-03-02",
+      "hour": "09",
+      "minute": "45"
+    },
     "source_url": "https://www.reuters.com/world/europe/drone-hits-apartment-building-russias-st-petersburg-no-casualties-reported-2024-03-02/"
   },
   {
@@ -557,7 +712,11 @@
     "location_name": "Kerch Strait, Black Sea",
     "latitude": 45.2500,
     "longitude": 36.5500,
-    "occurred_at": "2026-03-05 00:30:00",
+    "occurred_at": {
+      "date": "2026-03-05",
+      "hour": "03",
+      "minute": "00"
+    },
     "source_url": "https://www.bbc.com/news/world-europe-68474205"
   },
   {
@@ -571,7 +730,11 @@
     "location_name": "Gulf of Aden",
     "latitude": 11.5000,
     "longitude": 46.0000,
-    "occurred_at": "2026-03-06 08:30:00",
+    "occurred_at": {
+      "date": "2026-03-06",
+      "hour": "14",
+      "minute": "00"
+    },
     "source_url": "https://apnews.com/article/houthi-attacks-yemen-red-sea-gulf-aden-4131df95e999997e0b59b32c63ef2cc4"
   },
   {
@@ -585,7 +748,11 @@
     "location_name": "Red Sea",
     "latitude": 15.0000,
     "longitude": 41.5000,
-    "occurred_at": "2026-03-11 16:00:00",
+    "occurred_at": {
+      "date": "2026-03-11",
+      "hour": "18",
+      "minute": "30"
+    },
     "source_url": "https://www.reuters.com/world/middle-east/houthis-target-pinocchio-ship-red-sea-military-spokesman-says-2024-03-12/"
   },
   {
@@ -599,7 +766,11 @@
     "location_name": "Belgorod Region, Russia",
     "latitude": 50.5997,
     "longitude": 36.5983,
-    "occurred_at": "2026-03-12 08:00:00",
+    "occurred_at": {
+      "date": "2026-03-12",
+      "hour": "10",
+      "minute": "30"
+    },
     "source_url": "https://www.theguardian.com/world/2024/mar/12/pro-ukraine-russian-militias-launch-cross-border-raids-into-russia"
   },
   {
@@ -613,7 +784,11 @@
     "location_name": "Rafah, Gaza",
     "latitude": 31.2968,
     "longitude": 34.2435,
-    "occurred_at": "2026-03-13 14:00:00",
+    "occurred_at": {
+      "date": "2026-03-13",
+      "hour": "17",
+      "minute": "30"
+    },
     "source_url": "https://www.reuters.com/world/middle-east/israeli-strike-unrwa-facility-rafah-kills-five-gaza-officials-say-2024-03-13/"
   },
   {
@@ -627,7 +802,11 @@
     "location_name": "Odesa, Ukraine",
     "latitude": 46.4825,
     "longitude": 30.7233,
-    "occurred_at": "2026-03-15 11:00:00",
+    "occurred_at": {
+      "date": "2026-03-15",
+      "hour": "14",
+      "minute": "30"
+    },
     "source_url": "https://www.bbc.com/news/world-europe-68576402"
   }
 ]
