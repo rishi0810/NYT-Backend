@@ -1,11 +1,10 @@
 {
   "answer": [
-    "ACTOR",
-    "ACTRESS",
-    "DIRECTOR",
-    "PICTURE",
-    "SONG",
-    "SOUND"
+    "BRACKET",
+    "BUBBLE",
+    "CHALK",
+    "CINDERELLA",
+    "OVERTIME"
   ],
-  "spangram": "ACADEMYAWARD"
+  "spangram": "MARCHMADNESS"
 }
