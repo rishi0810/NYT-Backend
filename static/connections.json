@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "DISTURB": [
-        "ALARM",
-        "CONCERN",
-        "RATTLE",
-        "SHAKE"
+      "DIRECT": [
+        "BLUNT",
+        "FRANK",
+        "PLAIN",
+        "STRAIGHT"
       ]
     },
     {
-      "WORDS ON A MONOPOLY BOARD": [
-        "BOARDWALK",
-        "CHANCE",
-        "LUXURY",
-        "PARKING"
+      "TARGET": [
+        "GOAL",
+        "MARK",
+        "OBJECT",
+        "POINT"
       ]
     },
     {
-      "FIGURE IN GREEK MYTH": [
-        "FATE",
-        "FURY",
-        "MUSE",
-        "SIREN"
+      "CHECKERS TERMS": [
+        "CAPTURE",
+        "CROWN",
+        "JUMP",
+        "KING"
       ]
     },
     {
-      "EGG ___": [
-        "CARTON",
-        "NOODLE",
-        "ROLL",
-        "TIMER"
+      "20TH CENTURY AMERICAN POETS": [
+        "BISHOP",
+        "FROST",
+        "POUND",
+        "RICH"
       ]
     }
   ]
