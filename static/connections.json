@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "DIRECT": [
-        "BLUNT",
-        "FRANK",
-        "PLAIN",
-        "STRAIGHT"
+      "OVERSEE": [
+        "CHAIR",
+        "HEAD",
+        "LEAD",
+        "RUN"
       ]
     },
     {
-      "TARGET": [
-        "GOAL",
-        "MARK",
-        "OBJECT",
-        "POINT"
+      "PICTURE TAKEN FROM A FILM": [
+        "FRAME",
+        "IMAGE",
+        "SHOT",
+        "STILL"
       ]
     },
     {
-      "CHECKERS TERMS": [
-        "CAPTURE",
-        "CROWN",
-        "JUMP",
-        "KING"
+      "COMPONENTS OF A WEIGHTLIFTING SETUP": [
+        "BAR",
+        "BENCH",
+        "RACK",
+        "WEIGHTS"
       ]
     },
     {
-      "20TH CENTURY AMERICAN POETS": [
-        "BISHOP",
-        "FROST",
-        "POUND",
-        "RICH"
+      "___ SURF": [
+        "CHANNEL",
+        "COUCH",
+        "CROWD",
+        "KITE"
       ]
     }
   ]
