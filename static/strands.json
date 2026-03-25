@@ -1,11 +1,12 @@
 {
   "answer": [
-    "BARRICADE",
-    "FENCE",
-    "HOOP",
-    "HURDLE",
-    "TUNNEL",
-    "WALL"
+    "BEER",
+    "CANDY",
+    "FRIES",
+    "POPCORN",
+    "PRETZEL",
+    "SODA",
+    "WATER"
   ],
-  "spangram": "OBSTACLECOURSE"
+  "spangram": "CONCESSIONS"
 }

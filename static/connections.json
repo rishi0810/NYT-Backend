@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "DESPICABLE": [
-        "BASE",
-        "LOW",
-        "MEAN",
-        "VILE"
+      "OBFUSCATE": [
+        "BLUR",
+        "CLOUD",
+        "MUDDY",
+        "OBSCURE"
       ]
     },
     {
-      "FEATURES OF A WEDDING": [
-        "CAKE",
-        "KISS",
-        "RING",
-        "VOW"
+      "MAGAZINES": [
+        "FORTUNE",
+        "PEOPLE",
+        "SPIN",
+        "TIME"
       ]
     },
     {
-      "KINDS OF TRUCKS": [
-        "DUMP",
-        "FIRE",
-        "FOOD",
-        "TOW"
+      "PAYMENT METHODS": [
+        "CASH",
+        "CHARGE",
+        "CHECK",
+        "WIRE"
       ]
     },
     {
-      "HETERONYMS": [
-        "BOW",
-        "ROW",
-        "SOW",
-        "WIND"
+      "UNITS OF VOLUME WITH LAST LETTER CHANGED": [
+        "CUR",
+        "GALLOP",
+        "PING",
+        "QUARK"
       ]
     }
   ]
