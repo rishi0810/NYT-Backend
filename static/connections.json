@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "OBFUSCATE": [
-        "BLUR",
-        "CLOUD",
-        "MUDDY",
-        "OBSCURE"
+      "FOOD PROCUREMENT METHODS": [
+        "AGRICULTURE",
+        "FISHING",
+        "GATHERING",
+        "HUNTING"
       ]
     },
     {
-      "MAGAZINES": [
-        "FORTUNE",
-        "PEOPLE",
-        "SPIN",
-        "TIME"
+      "MEMBER OF A DETROIT SPORTS TEAM": [
+        "LION",
+        "PISTON",
+        "RED WING",
+        "TIGER"
       ]
     },
     {
-      "PAYMENT METHODS": [
-        "CASH",
-        "CHARGE",
-        "CHECK",
-        "WIRE"
+      "FEATURES OF A CLASSIC VOTING BOOTH": [
+        "BALLOT",
+        "BOOTH",
+        "CURTAIN",
+        "LEVER"
       ]
     },
     {
-      "UNITS OF VOLUME WITH LAST LETTER CHANGED": [
-        "CUR",
-        "GALLOP",
-        "PING",
-        "QUARK"
+      "THEY HAVE BOLTS": [
+        "FRANKENSTEIN'S MONSTER",
+        "HARDWARE STORE",
+        "LIGHTNING",
+        "LOCK"
       ]
     }
   ]

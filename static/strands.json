@@ -1,12 +1,10 @@
 {
   "answer": [
-    "BEER",
-    "CANDY",
-    "FRIES",
-    "POPCORN",
-    "PRETZEL",
-    "SODA",
-    "WATER"
+    "CLARINET",
+    "FLUTE",
+    "HARMONICA",
+    "OBOE",
+    "RECORDER"
   ],
-  "spangram": "CONCESSIONS"
+  "spangram": "WINDINSTRUMENT"
 }
