@@ -1,11 +1,11 @@
 {
   "answer": [
-    "EXACT",
-    "FITTING",
-    "IDEAL",
-    "PERFECT",
-    "SEEMLY",
-    "SUITABLE"
+    "EMAIL",
+    "LETTER",
+    "MEMO",
+    "MISSIVE",
+    "POSTCARD",
+    "TEXT"
   ],
-  "spangram": "TAILORMADE"
+  "spangram": "CORRESPONDENCE"
 }
