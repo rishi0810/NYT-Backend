@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "SHORTAGE": [
-        "ABSENCE",
-        "CRUNCH",
-        "DEFICIT",
-        "PINCH"
+      "BEER BRANDS": [
+        null,
+        null,
+        null,
+        null
       ]
     },
     {
-      "PARTS OF A PIRATE SHIP": [
-        "CANNON",
-        "CROW'S NEST",
-        "JOLLY ROGER",
-        "PLANK"
+      "ROCK BANDS": [
+        null,
+        null,
+        null,
+        null
       ]
     },
     {
-      "KINDS OF BRAS": [
-        "PLUNGE",
-        "PUSH-UP",
-        "SPORTS",
-        "WIRELESS"
+      "MOVIES": [
+        null,
+        null,
+        null,
+        null
       ]
     },
     {
-      "STARTING WITH BABY ANIMALS": [
-        "CALF RAISE",
-        "CHICK FLICK",
-        "FRY COOK",
-        "KIT KAT"
+      "U.S. CITY NICKNAMES": [
+        null,
+        null,
+        null,
+        null
       ]
     }
   ]
