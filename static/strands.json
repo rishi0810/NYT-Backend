@@ -1,10 +1,11 @@
 {
   "answer": [
-    "HUSHED",
-    "INAUDIBLE",
-    "NOISELESS",
-    "QUIET",
-    "SILENT"
+    "AGENT",
+    "BETTOR",
+    "BOOKIE",
+    "JOCKEY",
+    "TIPSTER",
+    "TRAINER"
   ],
-  "spangram": "SHHHHHHHHHHHH"
+  "spangram": "HORSERACING"
 }

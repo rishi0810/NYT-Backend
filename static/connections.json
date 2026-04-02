@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "BEER BRANDS": [
-        null,
-        null,
-        null,
-        null
+      "SUPPORT": [
+        "BACK",
+        "CHAMPION",
+        "ENDORSE",
+        "SECOND"
       ]
     },
     {
-      "ROCK BANDS": [
-        null,
-        null,
-        null,
-        null
+      "OPPORTUNITY": [
+        "CHANCE",
+        "MOMENT",
+        "OPENING",
+        "WINDOW"
       ]
     },
     {
-      "MOVIES": [
-        null,
-        null,
-        null,
-        null
+      "MALE ANIMALS": [
+        "BUCK",
+        "DRAKE",
+        "DRONE",
+        "STALLION"
       ]
     },
     {
-      "U.S. CITY NICKNAMES": [
-        null,
-        null,
-        null,
-        null
+      "ENDS OF LIQUOR BRANDS": [
+        "CARDI",
+        "EATER",
+        "MESON",
+        "MIGOS"
       ]
     }
   ]
