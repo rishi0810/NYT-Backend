@@ -1,11 +1,11 @@
 {
   "answer": [
-    "AGENT",
-    "BETTOR",
-    "BOOKIE",
-    "JOCKEY",
-    "TIPSTER",
-    "TRAINER"
+    "ACAI",
+    "GUAVA",
+    "LYCHEE",
+    "MANGO",
+    "PAPAYA",
+    "PINEAPPLE"
   ],
-  "spangram": "HORSERACING"
+  "spangram": "TROPICALFRUIT"
 }
