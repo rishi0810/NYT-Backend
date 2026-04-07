@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "EVENTS WITH DANCING": [
-        "BALL",
-        "HOEDOWN",
-        "HOP",
-        "RAVE"
+      "COMPETITION": [
+        "BATTLE",
+        "CLASH",
+        "CONTEST",
+        "MATCH"
       ]
     },
     {
-      "INTEREST": [
-        "CLAIM",
-        "CONCERN",
-        "SHARE",
-        "STAKE"
+      "ON BOARD": [
+        "DOWN",
+        "GAME",
+        "IN",
+        "WILLING"
       ]
     },
     {
-      "COMPONENTS OF WHAC-A-MOLE": [
-        "HOLES",
-        "MALLET",
-        "MOLE",
-        "TIMER"
+      "WORDS FOR UNSPECIFIED CHOICES": [
+        "ANOTHER",
+        "EITHER",
+        "NEITHER",
+        "ONE"
       ]
     },
     {
-      "MUSICALS WITH LAST LETTER CHANGED": [
-        "CAROUSER",
-        "EVITE",
-        "OLIVES",
-        "WICKET"
+      "___LIFE": [
+        "AFTER",
+        "LOW",
+        "NIGHT",
+        "WILD"
       ]
     }
   ]

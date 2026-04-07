@@ -1,11 +1,11 @@
 {
   "answer": [
-    "BOUNDARY",
-    "BRINK",
-    "EDGE",
-    "EXTREMITY",
-    "MARGIN",
-    "VERGE"
+    "BEARING",
+    "COURSE",
+    "FATHOM",
+    "KNOT",
+    "MARK",
+    "WAYPOINT"
   ],
-  "spangram": "OUTERLIMITS"
+  "spangram": "SMOOTHSAILING"
 }
