@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "GLOOMY": [
+      "PEPPERS": [
+        "BELL PEPPER",
+        "CAROLINA REAPER",
+        "CHIPOTLE",
+        "PEPPERONCINO"
+      ]
+    },
+    {
+      "THINGS THAT POP UP": [
+        "EJECTOR SEAT",
+        "JACK-IN-THE-BOX",
+        "POP-UP BOOK",
+        "TOASTER"
+      ]
+    },
+    {
+      "DESCRIPTORS FOR SWISS CHEESE": [
+        "FIRM",
+        "HOLEY",
+        "NUTTY",
+        "SWISS"
+      ]
+    },
+    {
+      "BLUE CHARACTERS": [
         "BLUE",
-        "DARK",
-        "DOWN",
-        "LOW"
-      ]
-    },
-    {
-      "OINTMENT": [
-        "BALM",
-        "CREAM",
-        "PASTE",
-        "RUB"
-      ]
-    },
-    {
-      "ZODIAC SYMBOLS": [
-        "ARCHER",
-        "FISH",
-        "GOAT",
-        "RAM"
-      ]
-    },
-    {
-      "MUSCULAR, MINUS \"ED\" SOUND": [
-        "JACK",
-        "RIP",
-        "SHRED",
-        "YOKE"
+        "GENIE",
+        "GONZO",
+        "SONIC"
       ]
     }
   ]
