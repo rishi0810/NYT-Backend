@@ -1,10 +1,12 @@
 {
   "answer": [
-    "HOBBY",
-    "INTEREST",
-    "PASTIME",
-    "RECREATION",
-    "SIDELINE"
+    "ABALONE",
+    "CLAM",
+    "CONCH",
+    "LIMPET",
+    "MUSSEL",
+    "OYSTER",
+    "SCALLOP"
   ],
-  "spangram": "JUSTFORFUN"
+  "spangram": "MOLLUSK"
 }

@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "TEASE": [
-        "NEEDLE",
-        "RIB",
-        "RIDE",
-        "ROAST"
+      "VEGETABLE PARTS": [
+        "BULB",
+        "LEAF",
+        "ROOT",
+        "STEM"
       ]
     },
     {
-      "THERMOSTAT SETTINGS": [
-        "AUTO",
-        "COOL",
-        "FAN",
-        "HEAT"
+      "PREVAILING": [
+        "COMMON",
+        "DOMINANT",
+        "GENERAL",
+        "POPULAR"
       ]
     },
     {
-      "FEATURES OF A CATWOMAN COSTUME": [
-        "BODYSUIT",
-        "CLAWS",
-        "MASK",
-        "WHIP"
+      "PARTS OF A PIANO": [
+        "HAMMER",
+        "KEY",
+        "PEDAL",
+        "STRING"
       ]
     },
     {
-      "TRAINING ___": [
-        "BRA",
-        "CAMP",
-        "DAY",
-        "WHEELS"
+      "SECOND HALVES OF DRINK NAMES": [
+        "SODA",
+        "STORMY",
+        "TAN",
+        "TONIC"
       ]
     }
   ]
