@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "AMBLE (IN)": [
-        "BREEZE",
-        "MOSEY",
-        "STROLL",
-        "WALTZ"
+      "POTTERY EQUIPMENT": [
+        "CLAY",
+        "GLAZE",
+        "KILN",
+        "WHEEL"
       ]
     },
     {
-      "BALDERDASH": [
-        "BALONEY",
-        "BILGE",
-        "BULL",
-        "BUNK"
+      "WALLOP": [
+        "DECK",
+        "PUNCH",
+        "SLUG",
+        "SOCK"
       ]
     },
     {
-      "KINDS OF BAGS": [
-        "CROSSBODY",
-        "HOBO",
-        "MESSENGER",
-        "SADDLE"
+      "WORDS PRONOUNCED DIFFERENT WAYS AS PROPER NOUNS": [
+        "HERB",
+        "NICE",
+        "POLISH",
+        "READING"
       ]
     },
     {
-      "STARTS OF ONE-WORD JAMES BOND MOVIE TITLES": [
-        "GOLD",
-        "MOON",
-        "OCTOPUS",
-        "THUNDER"
+      "PICK-UP ___": [
+        "ARTIST",
+        "GAME",
+        "STICKS",
+        "TRUCK"
       ]
     }
   ]
