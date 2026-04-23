@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "POTTERY EQUIPMENT": [
-        "CLAY",
-        "GLAZE",
-        "KILN",
-        "WHEEL"
+      "BORDER": [
+        "FLANK",
+        "NEIGHBOR",
+        "SKIRT",
+        "TOUCH"
       ]
     },
     {
-      "WALLOP": [
-        "DECK",
-        "PUNCH",
-        "SLUG",
-        "SOCK"
+      "KINDS OF FICTION": [
+        "HISTORICAL",
+        "LITERARY",
+        "PULP",
+        "SCIENCE"
       ]
     },
     {
-      "WORDS PRONOUNCED DIFFERENT WAYS AS PROPER NOUNS": [
-        "HERB",
-        "NICE",
-        "POLISH",
-        "READING"
+      "WORDS IN A PLANETARY MNEMONIC": [
+        "EDUCATED",
+        "MOTHER",
+        "MY",
+        "VERY"
       ]
     },
     {
-      "PICK-UP ___": [
-        "ARTIST",
-        "GAME",
-        "STICKS",
-        "TRUCK"
+      "STARTING WITH FOUR-LETTER '80S BANDS": [
+        "ASIAGO",
+        "DEVOTE",
+        "TOTORO",
+        "WHAMMY"
       ]
     }
   ]
