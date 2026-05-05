@@ -1,11 +1,12 @@
 {
   "answer": [
-    "ASPEN",
-    "BIRCH",
-    "CEDAR",
-    "CYPRESS",
-    "DOGWOOD",
-    "EUCALYPTUS"
+    "ALARM",
+    "DATE",
+    "DISPLAY",
+    "RADIO",
+    "SNOOZE",
+    "TIME",
+    "TUNER"
   ],
-  "spangram": "BRANCHOUT"
+  "spangram": "DIGITALCLOCK"
 }
