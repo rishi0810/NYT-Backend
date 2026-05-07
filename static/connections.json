@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "FOUND IN A CASINO": [
-        null,
-        null,
-        null,
-        null
+      "FISHING GEAR": [
+        "FLY",
+        "HOOK",
+        "LINE",
+        "NET"
       ]
     },
     {
-      "WAYS TO FASTEN THINGS": [
-        null,
-        null,
-        null,
-        null
+      "MULTITUDE": [
+        "DROVE",
+        "HOST",
+        "MASS",
+        "PACK"
       ]
     },
     {
-      "SEEN IN A BOWLING ALLEY": [
-        null,
-        null,
-        null,
-        null
+      "COMMIT A BASKETBALL INFRACTION": [
+        "CARRY",
+        "DOUBLE-DRIBBLE",
+        "GOALTEND",
+        "TRAVEL"
       ]
     },
     {
-      "FLAG DESIGNS": [
-        null,
-        null,
-        null,
-        null
+      "CONTROLLED WITH UP/DOWN BUTTONS": [
+        "CAR WINDOW",
+        "CHANNEL",
+        "ELEVATOR",
+        "VOLUME"
       ]
     }
   ]
