@@ -1,11 +1,10 @@
 {
   "answer": [
-    "ALLOW",
-    "APPROVE",
-    "BLESS",
-    "LICENSE",
-    "PERMIT",
-    "SANCTION"
+    "BASIC",
+    "COMMON",
+    "ORDINARY",
+    "PEDESTRIAN",
+    "PROSAIC"
   ],
-  "spangram": "GIVETHENOD"
+  "spangram": "RUNOFTHEMILL"
 }
