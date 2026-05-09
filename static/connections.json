@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "CANOODLING": [
-        "FIRST BASE",
-        "MAKING OUT",
-        "NECKING",
-        "TONSIL HOCKEY"
+      "UNITS OF TV PROGRAMS": [
+        "EPISODE",
+        "FRANCHISE",
+        "SEASON",
+        "SERIES"
       ]
     },
     {
-      "FIVE-SIDED THINGS": [
-        "HOME PLATE",
-        "JEANS BACK POCKET",
-        "SCHOOL CROSSING SIGN",
-        "THE PENTAGON"
+      "THINGS WORN AROUND THE NECK": [
+        "BOA",
+        "CHAIN",
+        "LANYARD",
+        "TIE"
       ]
     },
     {
-      "UNEXPECTED PLACES TO BE \"OUT OF\"": [
-        "LEFT FIELD",
-        "NOWHERE",
-        "THE BLUE",
-        "THIN AIR"
+      "STRINGS TIED IN KNOTS": [
+        "FRIENDSHIP BRACELET",
+        "MACRAMÉ",
+        "QUIPU",
+        "SHOELACES"
       ]
     },
     {
-      "ENDING IN CANDY BRANDS MINUS \"S\"": [
-        "BURGER KING WHOPPER",
-        "FILM NERD",
-        "MEMENTO",
-        "PITCHER'S MOUND"
+      "___ PIECE": [
+        "CONVERSATION",
+        "PERIOD",
+        "PUFF",
+        "THINK"
       ]
     }
   ]
