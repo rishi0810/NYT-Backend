@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "UNITS OF TV PROGRAMS": [
-        "EPISODE",
-        "FRANCHISE",
-        "SEASON",
-        "SERIES"
+      "MUSIC PLAYER BUTTONS": [
+        "PLAY",
+        "REPEAT",
+        "SHUFFLE",
+        "SKIP"
       ]
     },
     {
-      "THINGS WORN AROUND THE NECK": [
-        "BOA",
-        "CHAIN",
-        "LANYARD",
-        "TIE"
+      "DESTINED": [
+        "BOUND",
+        "CERTAIN",
+        "FATED",
+        "SURE"
       ]
     },
     {
-      "STRINGS TIED IN KNOTS": [
-        "FRIENDSHIP BRACELET",
-        "MACRAMÉ",
-        "QUIPU",
-        "SHOELACES"
+      "VERBS IN MAKING A MOJITO": [
+        "GARNISH",
+        "MUDDLE",
+        "POUR",
+        "STIR"
       ]
     },
     {
-      "___ PIECE": [
-        "CONVERSATION",
-        "PERIOD",
-        "PUFF",
-        "THINK"
+      "WHAT \"SPRING\" MIGHT REFER TO": [
+        "COIL",
+        "FOUNTAIN",
+        "LEAP",
+        "SEASON"
       ]
     }
   ]
