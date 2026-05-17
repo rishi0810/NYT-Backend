@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "GLASSWARE": [
-        "COUPE",
-        "FLUTE",
-        "STEIN",
-        "TUMBLER"
+      "CONDUIT": [
+        "DUCT",
+        "LINE",
+        "MAIN",
+        "PIPE"
       ]
     },
     {
-      "MESS AROUND (WITH)": [
-        "FIDDLE",
-        "MESS",
-        "PLAY",
-        "TINKER"
+      "SWINDLE": [
+        "FLEECE",
+        "HOSE",
+        "SQUEEZE",
+        "STIFF"
       ]
     },
     {
-      "MUSIC PERFORMANCE DIRECTIONS": [
-        "ALLEGRO",
-        "FORTE",
-        "LARGO",
-        "PIANO"
+      "TEA-MAKING VERBS": [
+        "BOIL",
+        "POUR",
+        "STEEP",
+        "STRAIN"
       ]
     },
     {
-      "ENDING IN SYNONYMS FOR \"ASAP\"": [
-        "BASSOON",
-        "BELFAST",
-        "NESQUICK",
-        "THERMOSTAT"
+      "\"SCHOOL\" MODIFIERS": [
+        "GRADE",
+        "GRAMMAR",
+        "HIGH",
+        "PRIMARY"
       ]
     }
   ]
