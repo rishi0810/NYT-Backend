@@ -1,11 +1,12 @@
 {
   "answer": [
-    "CLEMENTINE",
-    "KUMQUAT",
-    "LIME",
-    "ORANGE",
-    "POMELO",
-    "TANGERINE"
+    "BUTTE",
+    "HILL",
+    "HUMMOCK",
+    "KNOLL",
+    "MOUND",
+    "RIDGE",
+    "SLOPE"
   ],
-  "spangram": "CITRUS"
+  "spangram": "HIGHERGROUND"
 }
