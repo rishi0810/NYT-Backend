@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "HAIRDOS": [
-        "BEEHIVE",
-        "BOUFFANT",
-        "CHIGNON",
-        "POMPADOUR"
+      "FARM FIXTURES": [
+        "COOP",
+        "PEN",
+        "SHED",
+        "STABLE"
       ]
     },
     {
-      "MORE READILY": [
-        "FIRST",
-        "PREFERABLY",
-        "RATHER",
-        "SOONER"
+      "LABOR PROTEST ACTIONS": [
+        "MARCH",
+        "PICKET",
+        "RALLY",
+        "STRIKE"
       ]
     },
     {
-      "MARVEL CHARACTERS": [
-        "DAREDEVIL",
-        "HAWKEYE",
-        "NIGHTCRAWLER",
-        "WOLVERINE"
+      "OBJECTS USED IN RITUAL PERFORMANCES": [
+        "DRUM",
+        "MASK",
+        "RATTLE",
+        "STAFF"
       ]
     },
     {
-      "WORDS AFTER \"THE\" IN \"STAR WARS\" MOVIE TITLES": [
-        "EMPIRE",
-        "FORCE",
-        "LAST",
-        "PHANTOM"
+      "POSSESSIVE ADJECTIVES PLUS A LETTER": [
+        "HERB",
+        "HISS",
+        "ITSY",
+        "MYA"
       ]
     }
   ]

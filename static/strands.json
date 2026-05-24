@@ -1,11 +1,12 @@
 {
   "answer": [
-    "FLINT",
-    "HATCHET",
-    "MACHETE",
-    "PARACORD",
-    "SHOVEL",
-    "TARP"
+    "BOBBIN",
+    "COIL",
+    "REEL",
+    "SCROLL",
+    "SPINDLE",
+    "SPOOL",
+    "WINCH"
   ],
-  "spangram": "SURVIVALIST"
+  "spangram": "TRYTOUNWIND"
 }
