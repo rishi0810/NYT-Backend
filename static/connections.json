@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "GET LOW": [
-        "DUCK",
-        "HUNCH",
-        "SQUAT",
-        "STOOP"
+      "OCEANS": [
+        "ARCTIC",
+        "ATLANTIC",
+        "PACIFIC",
+        "SOUTHERN"
       ]
     },
     {
-      "FOURTH ESTATE": [
-        "MEDIA",
-        "NEWS",
-        "PAPERS",
-        "PRESS"
+      "SOURCES OF DISTINCTIVE SMELLS": [
+        "AMMONIA",
+        "BO",
+        "DURIAN",
+        "WET DOG"
       ]
     },
     {
-      "PARTS OF A COURTROOM": [
-        "BAR",
-        "BENCH",
-        "PODIUM",
-        "STAND"
+      "KINDS OF ROOMS IN A MANSION": [
+        "BILLIARD",
+        "DRAWING",
+        "POWDER",
+        "READING"
       ]
     },
     {
-      "SKI ___": [
-        "JUMP",
-        "LIFT",
-        "LODGE",
-        "SLOPE"
+      "WHAT \"PA\" MIGHT REFER TO": [
+        "FATHER",
+        "PENNSYLVANIA",
+        "PROTACTINIUM",
+        "PUBLIC ADDRESS"
       ]
     }
   ]
