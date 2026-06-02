@@ -1,11 +1,12 @@
 {
   "answer": [
-    "BLACKBERRY",
-    "CHESTNUT",
-    "CHICORY",
-    "MOREL",
-    "NETTLE",
-    "RAMP"
+    "COMMENT",
+    "FEED",
+    "MEME",
+    "POST",
+    "REEL",
+    "STORY",
+    "TREND"
   ],
-  "spangram": "FORAGING"
+  "spangram": "EXTREMELYONLINE"
 }
