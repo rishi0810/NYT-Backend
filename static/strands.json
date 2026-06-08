@@ -1,10 +1,12 @@
 {
   "answer": [
-    "BULLFROG",
-    "CHAMELEON",
-    "CROCODILE",
-    "SNAKE",
-    "TURTLE"
+    "BOARDS",
+    "CARDS",
+    "CHIPS",
+    "DICE",
+    "SPINNERS",
+    "TILES",
+    "TOKENS"
   ],
-  "spangram": "COLDBLOODED"
+  "spangram": "GAMENIGHT"
 }
