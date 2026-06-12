@@ -1,12 +1,11 @@
 {
   "answer": [
-    "BLUES",
-    "BREWS",
-    "CHOOSE",
-    "CRUISE",
-    "FUSE",
-    "SCHMOOZE",
-    "SHOES"
+    "BODY",
+    "CONCLUSION",
+    "HOOK",
+    "POINT",
+    "PROBLEM",
+    "TOPIC"
   ],
-  "spangram": "RHYMETIME"
+  "spangram": "PARTSOFSPEECH"
 }
