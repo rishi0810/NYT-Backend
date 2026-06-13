@@ -1,11 +1,11 @@
 {
   "answer": [
-    "BODY",
-    "CONCLUSION",
-    "HOOK",
-    "POINT",
-    "PROBLEM",
-    "TOPIC"
+    "LOUDSPEAKER",
+    "LYRICS",
+    "MICROPHONE",
+    "MUSIC",
+    "QUEUE",
+    "SONG"
   ],
-  "spangram": "PARTSOFSPEECH"
+  "spangram": "KARAOKE"
 }
