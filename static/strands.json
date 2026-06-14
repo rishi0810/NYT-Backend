@@ -1,11 +1,12 @@
 {
   "answer": [
-    "LOUDSPEAKER",
-    "LYRICS",
-    "MICROPHONE",
-    "MUSIC",
-    "QUEUE",
-    "SONG"
+    "BARON",
+    "DUCHESS",
+    "EARL",
+    "LADY",
+    "LORD",
+    "MARQUESS",
+    "VISCOUNT"
   ],
-  "spangram": "KARAOKE"
+  "spangram": "NOBILITY"
 }
