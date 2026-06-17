@@ -1,12 +1,10 @@
 {
   "answer": [
-    "GYRO",
-    "RAMEN",
-    "SALAD",
-    "SANDWICH",
-    "SOUP",
-    "TACOS",
-    "WRAP"
+    "BUCKET",
+    "PITCHFORK",
+    "SAWHORSE",
+    "TRACTOR",
+    "WHEELBARROW"
   ],
-  "spangram": "WHATSFORLUNCH"
+  "spangram": "FARMING"
 }
