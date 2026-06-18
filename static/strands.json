@@ -1,10 +1,12 @@
 {
   "answer": [
-    "BUCKET",
-    "PITCHFORK",
-    "SAWHORSE",
-    "TRACTOR",
-    "WHEELBARROW"
+    "ALGAE",
+    "CRAB",
+    "FISH",
+    "PLANKTON",
+    "SEAWEED",
+    "SHARK",
+    "URCHIN"
   ],
-  "spangram": "FARMING"
+  "spangram": "CORALREEF"
 }

@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "ALCOVE": [
-        "CAVITY",
-        "NICHE",
-        "NOOK",
-        "RECESS"
+      "FITNESS CLASS TYPES": [
+        "AEROBICS",
+        "BARRE",
+        "BOOTCAMP",
+        "PILATES"
       ]
     },
     {
-      "BODILY WORDS FOR ATTITUDE": [
-        "CHEEK",
-        "LIP",
-        "MOUTH",
-        "NERVE"
+      "DEMEANOR": [
+        "ATTITUDE",
+        "BEARING",
+        "CARRIAGE",
+        "PRESENCE"
       ]
     },
     {
-      "FIGURES IN GREEK MYTH": [
-        "CALLIOPE",
-        "ECHO",
-        "IRIS",
-        "NEMESIS"
+      "PEACE ACTIVISTS": [
+        "GANDHI",
+        "KING",
+        "MANDELA",
+        "TUTU"
       ]
     },
     {
-      "STARTING WITH SYNONYMS FOR \"ILK\"": [
-        "CLASSIC",
-        "KINDLE",
-        "SORTIE",
-        "TYPEFACE"
+      "TOOLS MINUS LAST TWO LETTERS": [
+        "HAMM",
+        "JIGS",
+        "PLIE",
+        "WREN"
       ]
     }
   ]
