@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "PRECIPITATION": [
-        "DRIZZLE",
-        "RAIN",
-        "SHOWERS",
-        "SPRINKLES"
+      "DOMINANT": [
+        "ALPHA",
+        "HEAD",
+        "LEAD",
+        "PRIMARY"
       ]
     },
     {
-      "BOWLS OVER": [
-        "FLOORS",
-        "ROCKS",
-        "STUNS",
-        "SURPRISES"
+      "MULTIPLICATION INDICATORS": [
+        "BY",
+        "TIMES",
+        "X",
+        "●"
       ]
     },
     {
-      "NBC SITCOMS": [
-        "COMMUNITY",
-        "FRIENDS",
-        "SCRUBS",
-        "WINGS"
+      "PRONUNCIATION DESCRIPTORS": [
+        "SHORT",
+        "SILENT",
+        "SOFT",
+        "STRESSED"
       ]
     },
     {
-      "STARTING WITH KINDS OF INSULTS": [
-        "BARBADOS",
-        "DIGGITY",
-        "DISSECT",
-        "SLAPDASH"
+      "STARTING WITH EXPLOSIVE ONOMATOPOEIA": [
+        "BANGKOK",
+        "BOOMER",
+        "POPSICLE",
+        "POWDER"
       ]
     }
   ]
