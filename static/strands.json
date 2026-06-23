@@ -1,10 +1,12 @@
 {
   "answer": [
-    "BUTTERFLIES",
-    "CREEPS",
-    "JITTERS",
-    "SHIVERS",
-    "WILLIES"
+    "ARMOR",
+    "BLOCK",
+    "BUILDING",
+    "FOOD",
+    "PORTAL",
+    "STORAGE",
+    "TOOL"
   ],
-  "spangram": "GOOSEBUMPS"
+  "spangram": "MINECRAFT"
 }
