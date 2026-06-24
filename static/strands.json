@@ -1,12 +1,11 @@
 {
   "answer": [
-    "ARMOR",
-    "BLOCK",
-    "BUILDING",
-    "FOOD",
-    "PORTAL",
-    "STORAGE",
-    "TOOL"
+    "BEER",
+    "JUICE",
+    "KOMBUCHA",
+    "SELTZER",
+    "SODA",
+    "WATER"
   ],
-  "spangram": "MINECRAFT"
+  "spangram": "BEVERAGECOOLERS"
 }
