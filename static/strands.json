@@ -1,11 +1,11 @@
 {
   "answer": [
-    "CELEBRATION",
-    "DRAG",
-    "FLAGS",
-    "PARADE",
-    "RAINBOW",
-    "RALLY"
+    "ACCIDENTAL",
+    "BRACKET",
+    "CLEF",
+    "MEASURE",
+    "NOTE",
+    "REST"
   ],
-  "spangram": "PRIDEMONTH"
+  "spangram": "MUSICALSTAFF"
 }
