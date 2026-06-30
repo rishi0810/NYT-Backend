@@ -1,11 +1,11 @@
 {
   "answer": [
-    "ACCIDENTAL",
-    "BRACKET",
-    "CLEF",
-    "MEASURE",
-    "NOTE",
-    "REST"
+    "CAST",
+    "CREW",
+    "DIRECTOR",
+    "EDITOR",
+    "PRODUCER",
+    "WRITER"
   ],
-  "spangram": "MUSICALSTAFF"
+  "spangram": "THATSSHOWBIZ"
 }
