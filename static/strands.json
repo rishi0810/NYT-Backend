@@ -1,11 +1,10 @@
 {
   "answer": [
-    "CAST",
-    "CREW",
-    "DIRECTOR",
-    "EDITOR",
-    "PRODUCER",
-    "WRITER"
+    "CLUE",
+    "EVIDENCE",
+    "HINT",
+    "INDICATION",
+    "INTIMATION"
   ],
-  "spangram": "THATSSHOWBIZ"
+  "spangram": "TELLTALESIGN"
 }
