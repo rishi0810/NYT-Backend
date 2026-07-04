@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "POSITIVE FEELINGS": [
-        "BLISS",
-        "FELICITY",
-        "HAPPINESS",
-        "WARM FUZZIES"
+      "PERSIST": [
+        "CONTINUE",
+        "LAST",
+        "LINGER",
+        "STAY"
       ]
     },
     {
-      "RETRO EXPRESSIONS OF APPROVAL": [
-        "COOL BEANS",
-        "FAR OUT",
-        "GROOVY",
-        "RIGHT ON"
+      "KINDS OF POEMS": [
+        "BALLAD",
+        "EPIC",
+        "ODE",
+        "VILLANELLE"
       ]
     },
     {
-      "BAD THINGS TO GIVE SOMEONE": [
-        "COLD SHOULDER",
-        "DIRTY LOOK",
-        "HARD TIME",
-        "RUNAROUND"
+      "TROPICAL DRINKS": [
+        "HURRICANE",
+        "PAINKILLER",
+        "SCORPION",
+        "ZOMBIE"
       ]
     },
     {
-      "WHAT THINGS PRONOUNCED \"T\" MIGHT REFER TO": [
-        "GOLF ACCESSORY",
-        "GOSSIP",
-        "HOT DRINK",
-        "SHIRT"
+      "SWEET ___": [
+        "DREAMS",
+        "NOTHINGS",
+        "PEA",
+        "SPOT"
       ]
     }
   ]
