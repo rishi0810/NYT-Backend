@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "PERSIST": [
-        "CONTINUE",
-        "LAST",
-        "LINGER",
-        "STAY"
+      "GRANOLA INGREDIENTS": [
+        "HONEY",
+        "NUTS",
+        "OATS",
+        "SEEDS"
       ]
     },
     {
-      "KINDS OF POEMS": [
-        "BALLAD",
-        "EPIC",
-        "ODE",
-        "VILLANELLE"
+      "PAYMENT METHODS": [
+        "CARD",
+        "CASH",
+        "CHECK",
+        "WIRE"
       ]
     },
     {
-      "TROPICAL DRINKS": [
-        "HURRICANE",
-        "PAINKILLER",
-        "SCORPION",
-        "ZOMBIE"
+      "AMEX CARD TYPES": [
+        "CENTURION",
+        "GOLD",
+        "GREEN",
+        "PLATINUM"
       ]
     },
     {
-      "SWEET ___": [
-        "DREAMS",
-        "NOTHINGS",
-        "PEA",
-        "SPOT"
+      "WHAT \"W\" MIGHT STAND FOR": [
+        "TUNGSTEN",
+        "WEST",
+        "WIN",
+        "WITH"
       ]
     }
   ]
