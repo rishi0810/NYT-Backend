@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "ROOMS IN CLUE": [
-        "CONSERVATORY",
-        "HALL",
-        "KITCHEN",
-        "STUDY"
+      "CUT INTO THIN PIECES": [
+        "GRATE",
+        "PLANE",
+        "SHAVE",
+        "SLIVER"
       ]
     },
     {
-      "STUDENT-ATHLETE DESIGNATIONS": [
-        "ALL-AMERICAN",
-        "JOCK",
-        "LETTERMAN",
-        "TEAM CAPTAIN"
+      "MOTIF": [
+        "DRIFT",
+        "PLOT",
+        "THEME",
+        "THREAD"
       ]
     },
     {
-      "___ TWIST": [
-        "FRENCH",
-        "LEMON",
-        "OLIVER",
-        "PLOT"
+      "GUITAR-PLAYING TECHNIQUES": [
+        "PICK",
+        "PLUCK",
+        "STRUM",
+        "TAP"
       ]
     },
     {
-      "ENDING IN \"SESAME STREET\" CHARACTERS": [
-        "BERNIE",
-        "COLBERT",
-        "DISCOUNT",
-        "SAN ANSELMO"
+      "HOUSE OF ___": [
+        "CARDS",
+        "LORDS",
+        "WAX",
+        "WORSHIP"
       ]
     }
   ]
