@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "INTERROGATE": [
-        "EXAMINE",
-        "GRILL",
-        "PUMP",
-        "QUESTION"
+      "CONTRACT": [
+        "AGREEMENT",
+        "BARGAIN",
+        "DEAL",
+        "UNDERSTANDING"
       ]
     },
     {
-      "THINGS WITH HANDLES": [
-        "BUCKET",
-        "DRAWER",
-        "MUG",
-        "UMBRELLA"
+      "EDIT MENU OPTIONS": [
+        "COPY",
+        "CUT",
+        "DELETE",
+        "PASTE"
       ]
     },
     {
-      "FICTIONAL CATS": [
-        "FIGARO",
-        "PUSS",
-        "SALEM",
-        "TOM"
+      "KINDS OF BASKETS": [
+        "EASTER",
+        "GROCERY",
+        "LAUNDRY",
+        "PICNIC"
       ]
     },
     {
-      "STARTING WITH SMOOCHES": [
-        "BUSSIN",
-        "KISSER",
-        "PECKISH",
-        "SMACKDOWN"
+      "SYMBOLIZED WITH ARROWS": [
+        "RECYCLING",
+        "SHUFFLE",
+        "THIS SIDE UP",
+        "U-TURN"
       ]
     }
   ]
