@@ -1,12 +1,9 @@
 {
   "answer": [
-    "DEVIATE",
-    "PIVOT",
-    "SWERVE",
-    "TACK",
-    "TURN",
-    "VEER",
-    "ZIGZAG"
+    "ENTERTAINMENT",
+    "GEOGRAPHY",
+    "NATURE",
+    "SPORTS"
   ],
-  "spangram": "CHANGECOURSE"
+  "spangram": "TRIVIALPURSUIT"
 }
