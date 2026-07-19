@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "COMMIT A BASKETBALL VIOLATION": [
-        "CARRY",
-        "DOUBLE DRIBBLE",
-        "GOALTEND",
-        "TRAVEL"
+      "CIRCUIT COMPONENTS": [
+        "BREAKER",
+        "FUSE",
+        "RELAY",
+        "SWITCH"
       ]
     },
     {
-      "BELIEF": [
-        "ATTITUDE",
-        "MIND",
-        "OPINION",
-        "VIEW"
+      "DIGITAL COUPLING VERBS": [
+        "CONNECT",
+        "JOIN",
+        "PAIR",
+        "SYNC"
       ]
     },
     {
-      "THINGS TRACKED IN VIDEO GAMES": [
-        "HEALTH",
-        "LIVES",
-        "SCORE",
-        "TIME"
+      "THINGS TOILETS DO": [
+        "DRAIN",
+        "FLUSH",
+        "REFILL",
+        "SWIRL"
       ]
     },
     {
-      "WORDS AFTER \"POP\"": [
-        "CULTURE",
-        "FLY",
-        "QUIZ",
-        "TART"
+      "___ FACE EXPRESSIONS": [
+        "GAME",
+        "LONG",
+        "POKER",
+        "STRAIGHT"
       ]
     }
   ]
