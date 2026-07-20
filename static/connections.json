@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "CIRCUIT COMPONENTS": [
-        "BREAKER",
-        "FUSE",
-        "RELAY",
-        "SWITCH"
+      "ANNOUNCE": [
+        "BLARE",
+        "HERALD",
+        "SOUND",
+        "TRUMPET"
       ]
     },
     {
-      "DIGITAL COUPLING VERBS": [
-        "CONNECT",
-        "JOIN",
-        "PAIR",
-        "SYNC"
+      "THINGS TO CLICK": [
+        "BUTTON",
+        "ICON",
+        "LINK",
+        "MENU"
       ]
     },
     {
-      "THINGS TOILETS DO": [
-        "DRAIN",
-        "FLUSH",
-        "REFILL",
-        "SWIRL"
+      "ASSOCIATED WITH PEARLS": [
+        "BUBBLE TEA",
+        "OYSTER",
+        "SWINE",
+        "WISDOM"
       ]
     },
     {
-      "___ FACE EXPRESSIONS": [
-        "GAME",
-        "LONG",
-        "POKER",
-        "STRAIGHT"
+      "STARTING WITH ALCOHOLIC BEVERAGES": [
+        "ALEXA",
+        "MEADOW",
+        "PORTOBELLO",
+        "SAKES"
       ]
     }
   ]
