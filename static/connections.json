@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "ANNOUNCE": [
-        "BLARE",
-        "HERALD",
-        "SOUND",
-        "TRUMPET"
+      "KINDS OF TOPS": [
+        "CROP",
+        "HALTER",
+        "TANK",
+        "TUBE"
       ]
     },
     {
-      "THINGS TO CLICK": [
-        "BUTTON",
-        "ICON",
-        "LINK",
-        "MENU"
+      "SOFTWARE DOWNLOADS": [
+        "APP",
+        "DRIVER",
+        "EXTENSION",
+        "PLUGIN"
       ]
     },
     {
-      "ASSOCIATED WITH PEARLS": [
-        "BUBBLE TEA",
-        "OYSTER",
-        "SWINE",
-        "WISDOM"
+      "ELEMENTS OF A MUSICAL": [
+        "BOOK",
+        "LYRICS",
+        "MUSIC",
+        "ORCHESTRATION"
       ]
     },
     {
-      "STARTING WITH ALCOHOLIC BEVERAGES": [
-        "ALEXA",
-        "MEADOW",
-        "PORTOBELLO",
-        "SAKES"
+      "TELE___": [
+        "GRAM",
+        "KINESIS",
+        "PROMPTER",
+        "VISION"
       ]
     }
   ]
