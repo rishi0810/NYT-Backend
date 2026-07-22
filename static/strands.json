@@ -1,11 +1,11 @@
 {
   "answer": [
-    "CARD",
-    "ENVELOPE",
-    "FILE",
-    "LETTERHEAD",
-    "NOTEPAD",
-    "SHEET"
+    "ANSWER",
+    "BOARD",
+    "BUZZER",
+    "CATEGORY",
+    "QUESTION",
+    "WAGER"
   ],
-  "spangram": "STATIONERY"
+  "spangram": "INJEOPARDY"
 }
