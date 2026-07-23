@@ -1,11 +1,10 @@
 {
   "answer": [
-    "ANSWER",
-    "BOARD",
-    "BUZZER",
-    "CATEGORY",
-    "QUESTION",
-    "WAGER"
+    "ADMIRAL",
+    "COMMANDER",
+    "ENSIGN",
+    "LIEUTENANT",
+    "RECRUIT"
   ],
-  "spangram": "INJEOPARDY"
+  "spangram": "NAVYRANKS"
 }
