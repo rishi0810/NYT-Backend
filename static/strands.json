@@ -1,10 +1,11 @@
 {
   "answer": [
-    "ADMIRAL",
-    "COMMANDER",
-    "ENSIGN",
-    "LIEUTENANT",
-    "RECRUIT"
+    "EXCESS",
+    "EXTRA",
+    "LEFTOVER",
+    "SPARE",
+    "SURPLUS",
+    "UNUSED"
   ],
-  "spangram": "NAVYRANKS"
+  "spangram": "ANDTHENSOME"
 }
