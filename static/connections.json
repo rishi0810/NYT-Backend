@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "GYMNASTICS APPARATUS": [
-        "BEAM",
-        "HORSE",
-        "RINGS",
-        "VAULT"
+      "COMMAND": [
+        "CAPTAIN",
+        "DIRECT",
+        "HEAD",
+        "LEAD"
       ]
     },
     {
-      "LONG TAPERED THINGS": [
-        "CARROT",
-        "ICICLE",
-        "KNITTING NEEDLE",
-        "STALACTITE"
+      "HOW DO YOU LIKE THEM APPLES": [
+        "EMPIRE",
+        "FUJI",
+        "GALA",
+        "HONEYCRISP"
       ]
     },
     {
-      "KINDS OF SHIFTS": [
-        "DOPPLER",
-        "GRAVEYARD",
-        "PARADIGM",
-        "STICK"
+      "SHOE BRANDS STARTING WITH \"C\"": [
+        "CAMPER",
+        "CLARKS",
+        "CONVERSE",
+        "CROCS"
       ]
     },
     {
-      "ICONS ON A SHOPPING SITE": [
-        "BELL",
-        "CART",
-        "HEART",
-        "MAGNIFYING GLASS"
+      "STARTING WITH PALINDROMIC NAMES": [
+        "ANNAPOLIS",
+        "BOBSLED",
+        "EVEREST",
+        "OTTOMAN"
       ]
     }
   ]
