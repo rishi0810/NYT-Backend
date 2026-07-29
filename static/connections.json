@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "COMMAND": [
-        "CAPTAIN",
-        "DIRECT",
-        "HEAD",
-        "LEAD"
+      "FASTENERS": [
+        "NAIL",
+        "RIVET",
+        "SCREW",
+        "STAPLE"
       ]
     },
     {
-      "HOW DO YOU LIKE THEM APPLES": [
-        "EMPIRE",
-        "FUJI",
-        "GALA",
-        "HONEYCRISP"
+      "NONDESCRIPT": [
+        "BASIC",
+        "MID",
+        "PLAIN",
+        "VANILLA"
       ]
     },
     {
-      "SHOE BRANDS STARTING WITH \"C\"": [
-        "CAMPER",
-        "CLARKS",
-        "CONVERSE",
-        "CROCS"
+      "UNITS OF WISDOM": [
+        "GEM",
+        "NUGGET",
+        "PEARL",
+        "WORD"
       ]
     },
     {
-      "STARTING WITH PALINDROMIC NAMES": [
-        "ANNAPOLIS",
-        "BOBSLED",
-        "EVEREST",
-        "OTTOMAN"
+      "___BOARDS IN A CLASSROOM": [
+        "BLACK",
+        "CHALK",
+        "CORK",
+        "WHITE"
       ]
     }
   ]
