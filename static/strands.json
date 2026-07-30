@@ -1,11 +1,12 @@
 {
   "answer": [
-    "DOLL",
-    "DUMMY",
-    "FIGURINE",
-    "MANNEQUIN",
-    "PUPPET",
-    "STATUE"
+    "COOPER",
+    "JOINER",
+    "MASON",
+    "POTTER",
+    "SMITH",
+    "TANNER",
+    "WEAVER"
   ],
-  "spangram": "FABRICATED"
+  "spangram": "ARTISANS"
 }
