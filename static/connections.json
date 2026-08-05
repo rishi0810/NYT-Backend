@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "LONG CYLINDRICAL THINGS": [
-        "CIGARETTE",
-        "FOAM ROLLER",
-        "POOL NOODLE",
-        "PRETZEL ROD"
+      "NAVIGATE": [
+        "DRIVE",
+        "MANEUVER",
+        "PILOT",
+        "STEER"
       ]
     },
     {
-      "ICONIC NYC SIGHTS": [
-        "BODEGA",
-        "PIGEON",
-        "SUBWAY STATION",
-        "TAXI CAB"
+      "JEANS BRANDS": [
+        "DIESEL",
+        "GAP",
+        "LUCKY",
+        "WRANGLER"
       ]
     },
     {
-      "THINGS WITH PEDALS": [
-        "PIANO",
-        "SEWING MACHINE",
-        "SWAN BOAT",
-        "UNICYCLE"
+      "HOUSE STYLES": [
+        "CAPE COD",
+        "MISSION",
+        "RANCH",
+        "TUDOR"
       ]
     },
     {
-      "V-SHAPED THINGS": [
-        "ANGLE BRACKET",
-        "CHEVRON",
-        "GOOSE FORMATION",
-        "PEACE SIGN"
+      "WHAT \"STOCK\" MIGHT REFER TO": [
+        "BROTH",
+        "CATTLE",
+        "INVESTMENT",
+        "MERCHANDISE"
       ]
     }
   ]

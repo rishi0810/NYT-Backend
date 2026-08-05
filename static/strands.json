@@ -1,10 +1,11 @@
 {
   "answer": [
-    "CONSULT",
-    "COUNTER",
-    "IMMUNIZATION",
-    "MEDICINE",
-    "REFILL"
+    "CONCEPT",
+    "IDEA",
+    "NOTION",
+    "OPINION",
+    "PLAN",
+    "THOUGHT"
   ],
-  "spangram": "PHARMACY"
+  "spangram": "BRAINSTORMING"
 }
