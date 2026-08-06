@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "NAVIGATE": [
-        "DRIVE",
-        "MANEUVER",
-        "PILOT",
-        "STEER"
+      "CLASSIC WOODEN TOYS": [
+        "ALPHABET BLOCKS",
+        "CUP-AND-BALL",
+        "JACOB'S LADDER",
+        "LINCOLN LOGS"
       ]
     },
     {
-      "JEANS BRANDS": [
-        "DIESEL",
-        "GAP",
-        "LUCKY",
-        "WRANGLER"
+      "PLACES WITH LANES": [
+        "BOWLING ALLEY",
+        "FREEWAY",
+        "SUPERMARKET",
+        "SWIMMING POOL"
       ]
     },
     {
-      "HOUSE STYLES": [
-        "CAPE COD",
-        "MISSION",
-        "RANCH",
-        "TUDOR"
+      "ICONIC ROMAN LANDMARKS": [
+        "COLOSSEUM",
+        "PANTHEON",
+        "SPANISH STEPS",
+        "TREVI FOUNTAIN"
       ]
     },
     {
-      "WHAT \"STOCK\" MIGHT REFER TO": [
-        "BROTH",
-        "CATTLE",
-        "INVESTMENT",
-        "MERCHANDISE"
+      "PLACES WITH NETS": [
+        "BARCLAYS CENTER",
+        "FISHING BOAT",
+        "HOCKEY RINK",
+        "TENNIS COURT"
       ]
     }
   ]
