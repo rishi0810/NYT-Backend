@@ -1,10 +1,11 @@
 {
   "answer": [
-    "DATA",
-    "FACTS",
-    "FIGURES",
-    "SPECIFICS",
-    "STATISTICS"
+    "CARROT",
+    "CORN",
+    "MELON",
+    "PEPPER",
+    "TOMATO",
+    "ZUCCHINI"
   ],
-  "spangram": "PROOFPOSITIVE"
+  "spangram": "SUMMERHARVEST"
 }
