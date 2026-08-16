@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "EXHAUSTED": [
-        "BEAT",
-        "FRIED",
-        "SPENT",
-        "WORN OUT"
+      "MUSICAL PERFORMANCE": [
+        "CONCERT",
+        "GIG",
+        "SET",
+        "SHOW"
       ]
     },
     {
-      "SEGMENT": [
-        "LEG",
-        "PHASE",
-        "STAGE",
-        "STRETCH"
+      "PARTICIPANT": [
+        "ACTOR",
+        "AGENT",
+        "PARTY",
+        "PLAYER"
       ]
     },
     {
-      "ENDING IN UNITS OF LENGTH": [
-        "CHAMOMILE",
-        "GRINCH",
-        "HOTFOOT",
-        "LANYARD"
+      "FAMILY RELATIONSHIP MODIFIERS": [
+        "GRAND",
+        "GREAT",
+        "HALF",
+        "STEP"
       ]
     },
     {
-      "ENDING IN SYNONYMS FOR FOLLOW SECRETLY": [
-        "BEANSTALK",
-        "EYESHADOW",
-        "HIGHTAIL",
-        "SOUNDTRACK"
+      "DESCRIPTORS FOR OUR HUMAN ANCESTORS": [
+        "FROM NEANDER",
+        "HANDY",
+        "UPRIGHT",
+        "WISE"
       ]
     }
   ]

@@ -1,12 +1,10 @@
 {
   "answer": [
-    "ALTAR",
-    "BIBLE",
-    "CANDLES",
-    "HYMNAL",
-    "LECTERN",
-    "PEWS",
-    "PULPIT"
+    "APPRENTICE",
+    "DISCIPLE",
+    "INTERN",
+    "MENTEE",
+    "PROTEGE"
   ],
-  "spangram": "INCHURCH"
+  "spangram": "JOBTRAINING"
 }
