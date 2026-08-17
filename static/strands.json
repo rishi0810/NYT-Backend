@@ -1,10 +1,12 @@
 {
   "answer": [
-    "APPRENTICE",
-    "DISCIPLE",
-    "INTERN",
-    "MENTEE",
-    "PROTEGE"
+    "ANKLE",
+    "ELBOW",
+    "KNEE",
+    "KNUCKLE",
+    "NECK",
+    "SHOULDER",
+    "WRIST"
   ],
-  "spangram": "JOBTRAINING"
+  "spangram": "BODYJOINTS"
 }
