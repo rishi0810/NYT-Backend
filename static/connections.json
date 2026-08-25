@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "FISH": [
-        "MULLET",
-        "PIKE",
-        "SOLE",
-        "TANG"
+      "SURFACE-LEVEL": [
+        "COSMETIC",
+        "ONE-DIMENSIONAL",
+        "SKIN-DEEP",
+        "SUPERFICIAL"
       ]
     },
     {
-      "PRINCIPAL": [
-        "ARCH",
-        "CHIEF",
-        "MAIN",
-        "PRIME"
+      "SCI-FI PHENOMENA": [
+        "HYPERSPACE",
+        "PARALLEL UNIVERSE",
+        "TELEPORTATION",
+        "TIME WARP"
       ]
     },
     {
-      "PRO-WRESTLING LINGO": [
-        "FACE",
-        "HEEL",
-        "JOBBER",
-        "KAYFABE"
+      "STEPHEN KING FILM ADAPTATIONS, WITH \"THE\"": [
+        "GREEN MILE",
+        "LONG WALK",
+        "RUNNING MAN",
+        "SHAWSHANK REDEMPTION"
       ]
     },
     {
-      "LETTER HOMOPHONE PLUS TENNIS TERM": [
-        "BESET",
-        "DESERVE",
-        "EX-LOVE",
-        "EYELET"
+      "ENDING IN ICE CREAM ORDERS": [
+        "HARLEM SHAKE",
+        "INSIDE SCOOP",
+        "LICKETY-SPLIT",
+        "TRAFFIC CONE"
       ]
     }
   ]
