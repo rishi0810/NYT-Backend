@@ -1,11 +1,11 @@
 {
   "answer": [
-    "AGENT",
-    "ASSET",
-    "COUNTERSPY",
-    "MOLE",
-    "OPERATIVE",
-    "PLANT"
+    "EXCLAIM",
+    "FREEZE",
+    "GASP",
+    "RECOIL",
+    "SHUDDER",
+    "START"
   ],
-  "spangram": "UNDERCOVER"
+  "spangram": "THATSSHOCKING"
 }
