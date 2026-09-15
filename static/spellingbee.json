@@ -1,53 +1,51 @@
 {
   "answer": {
-    "displayWeekday": "Monday",
-    "displayDate": "September 14, 2026",
-    "printDate": "2026-09-14",
-    "centerLetter": "g",
+    "displayWeekday": "Tuesday",
+    "displayDate": "September 15, 2026",
+    "printDate": "2026-09-15",
+    "centerLetter": "m",
     "outerLetters": [
-      "a",
-      "b",
-      "e",
-      "o",
+      "c",
+      "g",
+      "i",
+      "n",
       "p",
-      "y"
+      "r"
     ],
     "validLetters": [
+      "m",
+      "c",
       "g",
-      "a",
-      "b",
-      "e",
-      "o",
+      "i",
+      "n",
       "p",
-      "y"
+      "r"
     ],
     "pangrams": [
-      "pageboy"
+      "crimping"
     ],
     "answers": [
-      "pageboy",
-      "agape",
-      "agog",
-      "apogee",
-      "baggage",
-      "baggy",
-      "bogey",
-      "boggy",
-      "eggy",
-      "gabby",
-      "gaga",
-      "gage",
-      "gape",
-      "goby",
-      "gooey",
-      "goop",
-      "goopy",
-      "ogee",
-      "page",
-      "pogo",
-      "yoga"
+      "crimping",
+      "crimp",
+      "grim",
+      "impinging",
+      "mimic",
+      "miming",
+      "mincing",
+      "mini",
+      "minim",
+      "mining",
+      "mirin",
+      "miring",
+      "pimp",
+      "pimping",
+      "prim",
+      "priming",
+      "primp",
+      "primping",
+      "rimming"
     ],
-    "id": 21725,
+    "id": 25062,
     "freeExpiration": 0,
     "editor": "Sam Ezersky"
   }
