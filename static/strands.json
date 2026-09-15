@@ -1,11 +1,13 @@
 {
   "answer": [
-    "EXCLAIM",
-    "FREEZE",
-    "GASP",
-    "RECOIL",
-    "SHUDDER",
-    "START"
+    "ANCHOR",
+    "BOLT",
+    "BRACKET",
+    "HINGE",
+    "JOIST",
+    "KNOB",
+    "NAIL",
+    "SCREW"
   ],
-  "spangram": "THATSSHOCKING"
+  "spangram": "HARDWARE"
 }

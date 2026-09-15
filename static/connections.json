@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "WATERBIRDS": [
-        "COOT",
-        "GOOSE",
-        "LOON",
-        "TEAL"
+      "INSTRUCT": [
+        "COACH",
+        "DIRECT",
+        "GUIDE",
+        "TRAIN"
       ]
     },
     {
-      "INFORMANT": [
-        "CANARY",
-        "RAT",
-        "SNITCH",
-        "STOOLIE"
+      "PARTS OF A WHISTLING KETTLE": [
+        "HANDLE",
+        "LID",
+        "SPOUT",
+        "WHISTLE"
       ]
     },
     {
-      "COMMON SINGLE-USE PLASTIC ITEMS": [
-        "BAG",
-        "CUTLERY",
-        "STIRRER",
-        "STRAW"
+      "UNDERCOVER OPERATIVE": [
+        "ASSET",
+        "MOLE",
+        "PLANT",
+        "SLEEPER"
       ]
     },
     {
-      "___GRASS": [
-        "BLUE",
-        "CRAB",
-        "LEMON",
-        "WHEAT"
+      "THINGS THAT APPEAR AT THE END": [
+        "CABOOSE",
+        "DECEMBER",
+        "DESSERT",
+        "EPILOGUE"
       ]
     }
   ]
