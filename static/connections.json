@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "DEMONSTRATIVES": [
-        "THAT",
-        "THESE",
-        "THIS",
-        "THOSE"
+      "THINGS YOU GRAB BEFORE LEAVING THE HOUSE": [
+        "KEYS",
+        "PHONE",
+        "SUNGLASSES",
+        "WALLET"
       ]
     },
     {
-      "EMBELLISHMENT": [
-        "ACCENT",
-        "DETAIL",
-        "FLOURISH",
-        "TOUCH"
+      "WEBSITE HURDLES": [
+        "AGE VERIFICATION",
+        "CAPTCHA",
+        "COOKIE CONSENT",
+        "PAYWALL"
       ]
     },
     {
-      "OPTIONS ON A MULTIPLE CHOICE SURVEY": [
-        "AGREE",
-        "DISAGREE",
-        "NEUTRAL",
-        "OTHER"
+      "THINGS THAT COME IN CANS": [
+        "CONDENSED MILK",
+        "PAINT",
+        "SHAVING CREAM",
+        "SPAM"
       ]
     },
     {
-      "BEVERAGES WITH ACUTE ACCENTS REMOVED": [
-        "CAFE",
-        "PATRON",
-        "ROSE",
-        "THE"
+      "ENDING IN SYNONYMS FOR \"TERM\"": [
+        "BITCOIN",
+        "RECORD LABEL",
+        "RUB-A-DUB",
+        "SURINAME"
       ]
     }
   ]
