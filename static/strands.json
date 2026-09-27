@@ -1,12 +1,10 @@
 {
   "answer": [
-    "BREEZE",
-    "CURRENT",
-    "FLURRY",
-    "GUST",
-    "PUFF",
-    "WHIFF",
-    "ZEPHYR"
+    "CLEANSER",
+    "MOISTURIZER",
+    "SERUM",
+    "SUNSCREEN",
+    "TONER"
   ],
-  "spangram": "GENTLEWIND"
+  "spangram": "BEAUTYCARE"
 }
