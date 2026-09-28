@@ -1,10 +1,12 @@
 {
   "answer": [
-    "CLEANSER",
-    "MOISTURIZER",
-    "SERUM",
-    "SUNSCREEN",
-    "TONER"
+    "BRONZE",
+    "CLAY",
+    "GLASS",
+    "MARBLE",
+    "SOAPSTONE",
+    "STEEL",
+    "WOOD"
   ],
-  "spangram": "BEAUTYCARE"
+  "spangram": "SCULPTURE"
 }

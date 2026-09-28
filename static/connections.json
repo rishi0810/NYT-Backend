@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "SCULPTURE MEDIA": [
-        "BRONZE",
-        "CLAY",
-        "MARBLE",
-        "PLASTER"
+      "THINGS WITH STALKS": [
+        "BAMBOO",
+        "CELERY",
+        "CORN",
+        "WHEAT"
       ]
     },
     {
-      "RESTAURANT SEATING OPTIONS": [
-        "BANQUETTE",
-        "BOOTH",
-        "CHAIR",
-        "STOOL"
+      "OYSTER CONDIMENTS": [
+        "HORSERADISH",
+        "LEMON",
+        "MIGNONETTE",
+        "TABASCO"
       ]
     },
     {
-      "TELECOM": [
-        "CARRIER",
-        "NETWORK",
-        "OPERATOR",
-        "PROVIDER"
+      "DODGE MODELS": [
+        "CHALLENGER",
+        "CHARGER",
+        "DURANGO",
+        "VIPER"
       ]
     },
     {
-      "ENDING IN CHINESE DYNASTIES": [
-        "BBQING",
-        "HOMING",
-        "LOHAN",
-        "WU-TANG"
+      "THREE LETTERS PLUS REPEATED TRIGRAMS": [
+        "ARKANSANS",
+        "CHIHUAHUA",
+        "POSSESSES",
+        "SPRINGING"
       ]
     }
   ]
