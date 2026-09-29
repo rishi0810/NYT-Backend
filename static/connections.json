@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "THINGS WITH STALKS": [
-        "BAMBOO",
-        "CELERY",
-        "CORN",
-        "WHEAT"
+      "SECLUDED": [
+        "HIDDEN",
+        "REMOTE",
+        "SECRET",
+        "TUCKED AWAY"
       ]
     },
     {
-      "OYSTER CONDIMENTS": [
-        "HORSERADISH",
-        "LEMON",
-        "MIGNONETTE",
-        "TABASCO"
+      "RIVER FEATURES": [
+        "DELTA",
+        "DRAINAGE BASIN",
+        "MOUTH",
+        "STREAM BED"
       ]
     },
     {
-      "DODGE MODELS": [
-        "CHALLENGER",
-        "CHARGER",
-        "DURANGO",
-        "VIPER"
+      "FIRST WORDS OF PIXAR FILMS": [
+        "FINDING",
+        "INSIDE",
+        "MONSTERS",
+        "TOY"
       ]
     },
     {
-      "THREE LETTERS PLUS REPEATED TRIGRAMS": [
-        "ARKANSANS",
-        "CHIHUAHUA",
-        "POSSESSES",
-        "SPRINGING"
+      "PHRASES HIDING GREEK LETTERS": [
+        "FREEZE TAG",
+        "HOME GAME",
+        "MODEL TANK",
+        "ORAL PHASE"
       ]
     }
   ]

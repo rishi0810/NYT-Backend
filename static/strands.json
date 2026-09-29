@@ -1,12 +1,11 @@
 {
   "answer": [
-    "BRONZE",
-    "CLAY",
-    "GLASS",
-    "MARBLE",
-    "SOAPSTONE",
-    "STEEL",
-    "WOOD"
+    "ARTERY",
+    "ATRIUM",
+    "BLOOD",
+    "PRESSURE",
+    "PULSE",
+    "VEIN"
   ],
-  "spangram": "SCULPTURE"
+  "spangram": "CARDIOVASCULAR"
 }
