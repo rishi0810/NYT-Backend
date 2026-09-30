@@ -1,11 +1,12 @@
 {
   "answer": [
-    "ARTERY",
-    "ATRIUM",
-    "BLOOD",
-    "PRESSURE",
-    "PULSE",
-    "VEIN"
+    "AMPLIFIER",
+    "CAPO",
+    "DRUMS",
+    "GUITAR",
+    "PIANO",
+    "PICK",
+    "SYNTH"
   ],
-  "spangram": "CARDIOVASCULAR"
+  "spangram": "MUSICSTORE"
 }
