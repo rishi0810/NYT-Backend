@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "SECURITIES": [
-        "BOND",
-        "FUTURE",
-        "OPTION",
-        "STOCK"
+      "PUT": [
+        "PLACE",
+        "POSITION",
+        "SITUATE",
+        "STICK"
       ]
     },
     {
-      "THINGS THAT ARE SHAKEN (NOT STIRRED)": [
-        "ETCH A SKETCH",
-        "MARTINI",
-        "SPRAY PAINT",
-        "TAMBOURINE"
+      "DRESS SHIRT MEASUREMENTS": [
+        "CHEST",
+        "NECK",
+        "SLEEVE",
+        "WAIST"
       ]
     },
     {
-      "GANGSTER MOVIES": [
-        "BUGSY",
-        "CASINO",
-        "DONNIE BRASCO",
-        "SCARFACE"
+      "2000S INDIE ROCK BANDS, WITH \"THE\"": [
+        "DECEMBERISTS",
+        "NATIONAL",
+        "SHINS",
+        "WALKMEN"
       ]
     },
     {
-      "STARTING WITH MONTH ABBREVIATIONS": [
-        "DECENT",
-        "NOVELTY",
-        "OCTOPUSSY",
-        "SEPTUM"
+      "STARTS OF NYT PRINT PUZZLES": [
+        "ACRO",
+        "CROSS",
+        "KEN",
+        "SUD"
       ]
     }
   ]
