@@ -1,11 +1,11 @@
 {
   "answer": [
-    "BEACON",
-    "DOME",
-    "GALLERY",
-    "LANTERN",
-    "STAIRCASE",
-    "TOWER"
+    "AMOEBA",
+    "ATOM",
+    "FOLLICLE",
+    "MITE",
+    "MOLECULE",
+    "PINPOINT"
   ],
-  "spangram": "LIGHTHOUSE"
+  "spangram": "SMALLWORLD"
 }
