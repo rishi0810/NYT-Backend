@@ -1,35 +1,35 @@
 {
   "answer": [
     {
-      "SURFACE IMPERFECTIONS": [
-        "CHIP",
-        "MARK",
-        "NICK",
-        "SCRATCH"
+      "DIGITAL NOTIFICATIONS": [
+        "ALERT",
+        "CHIME",
+        "DING",
+        "PING"
       ]
     },
     {
-      "LANDLOCKED COUNTRIES": [
-        "CHAD",
-        "HUNGARY",
-        "LAOS",
-        "PARAGUAY"
+      "PHOTO": [
+        "PRINT",
+        "SHOT",
+        "SNAP",
+        "STILL"
       ]
     },
     {
-      "EUROPEAN COUNTRIES MINUS A LETTER": [
-        "BULGARI",
-        "CYRUS",
-        "HUNGRY",
-        "SPAN"
+      "KINDS OF CRABS": [
+        "FIDDLER",
+        "HERMIT",
+        "KING",
+        "SNOW"
       ]
     },
     {
-      "STARTING WITH WORDS FOR \"STYLISH\"": [
-        "CHICKEN",
-        "COOLIDGE",
-        "HIPPO",
-        "SMARTIES"
+      "LA ___": [
+        "BOHÈME",
+        "BREA",
+        "PAZ",
+        "SCALA"
       ]
     }
   ]
