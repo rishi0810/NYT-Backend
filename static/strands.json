@@ -1,10 +1,12 @@
 {
   "answer": [
-    "HEADPHONES",
-    "SNEAKERS",
-    "SUNGLASSES",
-    "VEST",
-    "WATCH"
+    "DEITY",
+    "DRYAD",
+    "FATES",
+    "FURIES",
+    "MUSES",
+    "NYMPH",
+    "SATYR"
   ],
-  "spangram": "RUNNINGGEAR"
+  "spangram": "MYTHOLOGICAL"
 }
