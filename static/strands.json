@@ -1,12 +1,11 @@
 {
   "answer": [
-    "DEITY",
-    "DRYAD",
-    "FATES",
-    "FURIES",
-    "MUSES",
-    "NYMPH",
-    "SATYR"
+    "CHASE",
+    "CIRCLE",
+    "GAME",
+    "PLAYGROUND",
+    "SELECT",
+    "WALK"
   ],
-  "spangram": "MYTHOLOGICAL"
+  "spangram": "DUCKDUCKGOOSE"
 }
