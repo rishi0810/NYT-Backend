@@ -1,10 +1,12 @@
 {
   "answer": [
-    "EAVESDROPPING",
-    "INQUISITIVE",
-    "NOSY",
-    "PRYING",
-    "SNOOPY"
+    "BASKET",
+    "DETERGENT",
+    "DRYER",
+    "IRON",
+    "RACK",
+    "SINK",
+    "WASHER"
   ],
-  "spangram": "BUSYBODY"
+  "spangram": "LAUNDRYDAY"
 }
