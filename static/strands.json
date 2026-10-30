@@ -1,13 +1,11 @@
 {
   "answer": [
-    "BLOOD",
-    "BUBBLE",
-    "FIRE",
-    "LIZARD",
-    "NEWT",
-    "SNAKE",
-    "TONGUE",
-    "WORM"
+    "CURRENT",
+    "ELECTRICITY",
+    "ENERGY",
+    "JUICE",
+    "POWER",
+    "SPARK"
   ],
-  "spangram": "CAULDRON"
+  "spangram": "PLUGGEDIN"
 }
