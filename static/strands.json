@@ -1,10 +1,11 @@
 {
   "answer": [
-    "BANTER",
-    "CHINWAG",
-    "GABFEST",
-    "GOSSIP",
-    "SCHMOOZE"
+    "DEMO",
+    "REACTION",
+    "REVIEW",
+    "SKIT",
+    "TUTORIAL",
+    "VLOG"
   ],
-  "spangram": "SHOOTTHEBREEZE"
+  "spangram": "CONTENTCREATOR"
 }
