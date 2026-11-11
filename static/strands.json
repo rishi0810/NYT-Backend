@@ -1,11 +1,11 @@
 {
   "answer": [
-    "DEMO",
-    "REACTION",
-    "REVIEW",
-    "SKIT",
-    "TUTORIAL",
-    "VLOG"
+    "BICEPS",
+    "HAMSTRINGS",
+    "LATS",
+    "OBLIQUES",
+    "PECS",
+    "QUADS"
   ],
-  "spangram": "CONTENTCREATOR"
+  "spangram": "MUSCLEGROUP"
 }
