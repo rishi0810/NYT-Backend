@@ -1,11 +1,10 @@
 {
   "answer": [
-    "BICEPS",
-    "HAMSTRINGS",
-    "LATS",
-    "OBLIQUES",
-    "PECS",
-    "QUADS"
+    "CONCERTGOER",
+    "LISTENER",
+    "PATRON",
+    "SPECTATOR",
+    "VIEWER"
   ],
-  "spangram": "MUSCLEGROUP"
+  "spangram": "AUDIENCE"
 }
