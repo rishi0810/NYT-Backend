@@ -1,10 +1,11 @@
 {
   "answer": [
-    "CONCERTGOER",
-    "LISTENER",
-    "PATRON",
-    "SPECTATOR",
-    "VIEWER"
+    "BROKEN",
+    "FLOOR",
+    "MIRROR",
+    "SALT",
+    "SPILLED",
+    "THIRTEENTH"
   ],
-  "spangram": "AUDIENCE"
+  "spangram": "ROTTENLUCK"
 }
