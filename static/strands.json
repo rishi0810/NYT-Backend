@@ -1,11 +1,12 @@
 {
   "answer": [
-    "BROKEN",
-    "FLOOR",
-    "MIRROR",
-    "SALT",
-    "SPILLED",
-    "THIRTEENTH"
+    "GALLOP",
+    "JUMP",
+    "MARCH",
+    "SKIP",
+    "SPIN",
+    "TIPTOE",
+    "WALK"
   ],
-  "spangram": "ROTTENLUCK"
+  "spangram": "FOLLOWTHELEADER"
 }
