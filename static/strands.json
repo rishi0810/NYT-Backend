@@ -1,12 +1,10 @@
 {
   "answer": [
-    "GALLOP",
-    "JUMP",
-    "MARCH",
-    "SKIP",
-    "SPIN",
-    "TIPTOE",
-    "WALK"
+    "FIREFLY",
+    "JOKER",
+    "PENGUIN",
+    "RIDDLER",
+    "SCARECROW"
   ],
-  "spangram": "FOLLOWTHELEADER"
+  "spangram": "BATMANVILLAIN"
 }
