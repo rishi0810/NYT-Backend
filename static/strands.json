@@ -1,10 +1,12 @@
 {
   "answer": [
-    "COLLEAGUE",
-    "FRIEND",
-    "NEIGHBOR",
-    "NEWCOMER",
-    "NOMAD"
+    "BREAK",
+    "HIATUS",
+    "HOLIDAY",
+    "PAUSE",
+    "RECESS",
+    "REST",
+    "VACATION"
   ],
-  "spangram": "CHOSENFAMILY"
+  "spangram": "TIMEOFF"
 }
